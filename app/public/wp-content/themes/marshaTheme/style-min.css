@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");body{font-family:'Roboto',sans-serif;font-size:16px}
+.container #logo,#line,.nav-search{display:none}
+.container{width:100%;margin:0;max-width:none;padding:0}
+.container .entry-content{margin-top:0}
+.container .page-header{display:none}
+.container .purpleLine{max-width:50%;margin:2em auto;padding-bottom:0;border-bottom:1px solid #a161bf}
+.navbar.navbar-default{font-family:'Roboto',sans-serif;background-color:#222;border:0;border-radius:0}
+.navbar-default .navbar-nav>.active>a{background-color:#222;color:#a161bf;text-decoration:underline}
+.navbar-header .momNameNav{color:#fff;margin-top:10px;padding:.25em 0 0 1em}
+.navbar-default .navbar-nav>li>a{font-size:16px}
+.navbar-collapse.collapse{float:right}
+.navbar-default .navbar-nav>.active>a:hover{background-color:transparent}
+.siteHome:hover{text-decoration:none}
+h1{text-align:center}
+.entry-title{display:none}
+.entry-content .slider_1 .slider-title,.share_buttons_1{display:none}
+.buyBtn{padding:8px 20px;background-color:#fff;color:#a161bf;border:2px solid #a161bf;text-decoration:none;border-radius:20px;position:relative;top:1em}
+.buyBtn:hover{background-color:#a161bf;color:#fff;text-decoration:none}
+.entry-content .slider_1,.entry-content .huge-it-wrap,.entry-content #slider_1{max-width:none !important;max-height:none !important;width:100% !important;height:auto !important;margin-bottom:1.5em}
+.entry-content .slider_1 #slider_1{background-color:#222;padding:2.5em 0 4.5em 0}
+.entry-content .slider_1 #slider_1 .slider-description{width:30%;min-width:30%;font-size:1.5em;color:#fff;text-align:left;background-color:transparent;position:absolute;top:6em;left:60vw;border-radius:10px;margin-left:3em}
+.entry-content .slider_1 #slider_1 .slider-description:before{position:absolute;top:120px;left:190px;content:'';width:10px;height:10px;background-color:#fff;-webkit-transform:rotateZ(45deg);-ms-transform:rotate(45deg);transform:rotateZ(45deg)}
+.entry-content .slider_1 .huge-it-prev{left:1.2em}
+.entry-content .slider_1 .huge-it-next{right:1.2em}
+.entry-content .slider_1 .huge-it-dot-wrap{top:67vh}
+.entry-content .slider_1 .huge-it-dot-wrap a{background-color:transparent;border:1px solid #fff;opacity:.3}
+.entry-content .slider_1 .huge-it-dot-wrap .active{background-color:#fff;border:0}
+.entry-content .slider_1 .huge-it-slide-image{width:276px !important;height:430px !important}
+.entry-content .slider_1 .group{text-align:center;position:relative;left:-15vw}
+.content-column{text-align:center}
+.last_column{text-align:left}
+.main-content-inner{width:100%}
+.homeColRow{margin:5em 0}
+.homeColRow .one_half{text-align:center}
+.homeColRow .last_column{text-align:left}
+.homeColRow p{font-size:1.25em}
+.latestWork{padding-bottom:1em}
+.latestWork .latestBookImg{padding:1.8em 0 0 15%}
+.latestWork .latestBookImg img{width:70%;min-width:40%;max-width:440px;margin-bottom:.45em}
+.latestWork .latestBookImg a{color:#222;text-decoration:underline;font-size:1.25em}
+.latestWork .latestBookImg a:hover{color:#a161bf}
+.latestWork .reviewCol{padding-right:20%}
+.latestWork .reviewCol .blurb{font-size:1em}
+.latestWork .reviewCol .blurb:first-child{padding-top:1.8em}
+.latestWork .reviewCol .review{font-size:14px;margin:1.5em 0}
+.latestWork .reviewCol .review:first-child{margin-bottom:0}
+.latestWork .reviewCol .reviewer{font-size:20px;font-weight:bold;padding-left:1em;margin-bottom:1.5em;text-align:right}
+.bookColumnsContainer{padding:0 17% 2em 17%;margin-bottom:5em}
+.bookColumnsContainer h1{margin-bottom:1em}
+.bookColumnsContainer .one_half{text-align:left}
+.bookColumnsContainer .one_half p{padding-right:7em}
+.bookColumnsContainer .last_column{position:relative;text-align:left}
+.bookColumnsContainer img{max-width:100%;margin-bottom:1em;height:292px}
+#footer-area{background-color:#222}
+#footer-area .social-icons{margin:0}
+#footer-area .social_icon{color:#777;-webkit-transition:.25s;transition:.25s}
+#footer-area .social_icon:hover{color:#333}
+#footer-area a{font-size:24px}
+.site-info .copyright{display:none}
+.bio,.coachPage{padding:3em 15% 0 15%}
+.comment-form{padding:0 15%;margin-bottom:2em}
+.comment-form #submit{background-color:#222;color:#fff}
+.coachPage{padding:3em 20% 0 15%}
+.coachPage .one_half{text-align:left}
+.coachPage img{position:relative;max-width:86%;min-width:530px;left:8em}
+.coachPage h1{text-align:left}
+.coachPage .one_third{text-align:left;font-size:1.2em}
+.coachPage a:hover{color:#a161bf}
+.bio img{max-width:20%}
+.blog .flexslider{display:none}
+.blog .site-content{padding:3em 15% 0 15%}
+.blog .entry-content{text-align:center}
+.blog .entry-content p{width:75%;min-width:75%;margin:1em auto 0 auto}
+.blog .alignleft{float:none}
+.videos,.comment-list{padding:3em 15% 0 15%}
+.contact{padding:3em 15% 0 15%}
+.contact .wpcf7 label{text-align:left}
+.contact .wpcf7 p{text-align:left}
+.contact .wpcf7 .wpcf7-submit{background-color:#222;color:#fff}
+.contact .wpcf7 .wpcf7-submit:hover{background-color:#a161bf}
+@media only screen and (max-width:768px){.navbar-header .momNameNav{text-align:left;margin-right:4em;margin-top:15px;float:left;font-size:1.75em}
+.navbar-collapse.collapsing{background-color:#222}
+.navbar-collapse.collapsing .nav.navbar-nav{text-align:center}
+.navbar-collapse.collapsing .nav.navbar-nav>li>a{margin:0}
+.navbar-default .navbar-toggle{float:right}
+.navbar-collapse.collapse.in{background-color:#222}
+.navbar-collapse.collapse.in .nav.navbar-nav{text-align:center}
+.navbar-collapse.collapse.in .nav.navbar-nav>li>a{margin:0}
+.entry-content .slider_1 .group{position:static}
+.entry-content .slider_1 .slider-description{display:none}
+.entry-content .slider_1 .huge-it-dot-wrap{display:none}
+.latestWork .latestBookImg{padding-left:0}
+.latestWork .reviewCol{padding:0 2em}
+.latestWork .reviewCol p.review:nth-child(7){display:none}
+.bookColumnsContainer{padding:0 2em}
+.bookColumnsContainer img{max-width:100%}
+.bookColumnsContainer .one_half{margin-bottom:5em}
+.bookColumnsContainer .one_half p{padding-right:3em}
+.bookColumnsContainer .last_column{margin-bottom:0}
+.coachPage{padding:3em 2em 0 2em}
+.coachPage img{position:static;max-width:100%;min-width:0}
+}

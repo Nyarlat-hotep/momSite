@@ -1,0 +1,1677 @@
+2018-03-15 20:41:09 28 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-03-15 20:41:09 28 [Note] Plugin 'FEDERATED' is disabled.
+2018-03-15 20:41:09 28 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-03-15 20:41:09 28 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-03-15 20:41:09 28 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-03-15 20:41:09 28 [Note] InnoDB: Memory barrier is not used
+2018-03-15 20:41:09 28 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-03-15 20:41:09 28 [Note] InnoDB: Using Linux native AIO
+2018-03-15 20:41:09 28 [Note] InnoDB: Using CPU crc32 instructions
+2018-03-15 20:41:09 28 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-03-15 20:41:09 28 [Note] InnoDB: Completed initialization of buffer pool
+2018-03-15 20:41:09 28 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-03-15 20:41:09 28 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 1625997 in the ib_logfiles!
+2018-03-15 20:41:09 28 [Note] InnoDB: Database was not shutdown normally!
+2018-03-15 20:41:09 28 [Note] InnoDB: Starting crash recovery.
+2018-03-15 20:41:09 28 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-03-15 20:41:09 28 [Note] InnoDB: Restoring possible half-written data pages 
+2018-03-15 20:41:09 28 [Note] InnoDB: from the doublewrite buffer...
+2018-03-15 20:41:10 28 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-03-15 20:41:10 28 [Note] InnoDB: Waiting for purge to start
+2018-03-15 20:41:10 28 [Note] InnoDB: 5.6.37 started; log sequence number 1625997
+2018-03-15 20:41:10 28 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-03-15 20:41:10 28 [Note] IPv6 is available.
+2018-03-15 20:41:10 28 [Note]   - '::' resolves to '::';
+2018-03-15 20:41:10 28 [Note] Server socket created on IP: '::'.
+2018-03-15 20:41:10 28 [ERROR] /usr/sbin/mysqld: Table './mysql/user' is marked as crashed and should be repaired
+2018-03-15 20:41:10 28 [Warning] Checking table:   './mysql/user'
+2018-03-15 20:41:10 28 [ERROR] 1 client is using or hasn't closed the table properly
+2018-03-15 20:41:10 28 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-03-15 20:41:10 28 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-03-15 20:41:10 28 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-03-15 20:41:10 28 [Note] Event Scheduler: Loaded 0 events
+2018-03-15 20:41:10 28 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-03-19 12:46:23 78 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-03-19 12:46:23 78 [Note] Plugin 'FEDERATED' is disabled.
+2018-03-19 12:46:23 78 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-03-19 12:46:23 78 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-03-19 12:46:23 78 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-03-19 12:46:23 78 [Note] InnoDB: Memory barrier is not used
+2018-03-19 12:46:23 78 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-03-19 12:46:23 78 [Note] InnoDB: Using Linux native AIO
+2018-03-19 12:46:23 78 [Note] InnoDB: Using CPU crc32 instructions
+2018-03-19 12:46:23 78 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-03-19 12:46:23 78 [Note] InnoDB: Completed initialization of buffer pool
+2018-03-19 12:46:23 78 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-03-19 12:46:23 78 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 10129647 in the ib_logfiles!
+2018-03-19 12:46:23 78 [Note] InnoDB: Database was not shutdown normally!
+2018-03-19 12:46:23 78 [Note] InnoDB: Starting crash recovery.
+2018-03-19 12:46:23 78 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-03-19 12:46:24 78 [Note] InnoDB: Restoring possible half-written data pages 
+2018-03-19 12:46:24 78 [Note] InnoDB: from the doublewrite buffer...
+2018-03-19 12:46:24 78 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-03-19 12:46:24 78 [Note] InnoDB: Waiting for purge to start
+2018-03-19 12:46:24 78 [Note] InnoDB: 5.6.37 started; log sequence number 10129647
+2018-03-19 12:46:24 78 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-03-19 12:46:24 78 [Note] IPv6 is available.
+2018-03-19 12:46:24 78 [Note]   - '::' resolves to '::';
+2018-03-19 12:46:24 78 [Note] Server socket created on IP: '::'.
+2018-03-19 12:46:24 78 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-03-19 12:46:24 78 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-03-19 12:46:24 78 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-03-19 12:46:24 78 [Note] Event Scheduler: Loaded 0 events
+2018-03-19 12:46:24 78 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-03-21 13:42:44 29 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-03-21 13:42:44 29 [Note] Plugin 'FEDERATED' is disabled.
+2018-03-21 13:42:44 29 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-03-21 13:42:44 29 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-03-21 13:42:44 29 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-03-21 13:42:44 29 [Note] InnoDB: Memory barrier is not used
+2018-03-21 13:42:44 29 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-03-21 13:42:44 29 [Note] InnoDB: Using Linux native AIO
+2018-03-21 13:42:44 29 [Note] InnoDB: Using CPU crc32 instructions
+2018-03-21 13:42:44 29 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-03-21 13:42:44 29 [Note] InnoDB: Completed initialization of buffer pool
+2018-03-21 13:42:44 29 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-03-21 13:42:44 29 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389546 in the ib_logfiles!
+2018-03-21 13:42:44 29 [Note] InnoDB: Database was not shutdown normally!
+2018-03-21 13:42:44 29 [Note] InnoDB: Starting crash recovery.
+2018-03-21 13:42:44 29 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-03-21 13:42:44 29 [Note] InnoDB: Restoring possible half-written data pages 
+2018-03-21 13:42:44 29 [Note] InnoDB: from the doublewrite buffer...
+2018-03-21 13:42:45 29 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-03-21 13:42:45 29 [Note] InnoDB: Waiting for purge to start
+2018-03-21 13:42:45 29 [Note] InnoDB: 5.6.37 started; log sequence number 13389546
+2018-03-21 13:42:45 29 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-03-21 13:42:45 29 [Note] IPv6 is available.
+2018-03-21 13:42:45 29 [Note]   - '::' resolves to '::';
+2018-03-21 13:42:45 29 [Note] Server socket created on IP: '::'.
+2018-03-21 13:42:45 29 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-03-21 13:42:45 29 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-03-21 13:42:45 29 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-03-21 13:42:45 29 [Note] Event Scheduler: Loaded 0 events
+2018-03-21 13:42:45 29 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-03-26 14:52:56 19 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-03-26 14:52:56 19 [Note] Plugin 'FEDERATED' is disabled.
+2018-03-26 14:52:56 19 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-03-26 14:52:56 19 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-03-26 14:52:56 19 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-03-26 14:52:56 19 [Note] InnoDB: Memory barrier is not used
+2018-03-26 14:52:56 19 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-03-26 14:52:56 19 [Note] InnoDB: Using Linux native AIO
+2018-03-26 14:52:56 19 [Note] InnoDB: Using CPU crc32 instructions
+2018-03-26 14:52:56 19 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-03-26 14:52:56 19 [Note] InnoDB: Completed initialization of buffer pool
+2018-03-26 14:52:56 19 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-03-26 14:52:56 19 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389556 in the ib_logfiles!
+2018-03-26 14:52:56 19 [Note] InnoDB: Database was not shutdown normally!
+2018-03-26 14:52:56 19 [Note] InnoDB: Starting crash recovery.
+2018-03-26 14:52:56 19 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-03-26 14:52:56 19 [Note] InnoDB: Restoring possible half-written data pages 
+2018-03-26 14:52:56 19 [Note] InnoDB: from the doublewrite buffer...
+2018-03-26 14:52:57 19 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-03-26 14:52:58 19 [Note] InnoDB: Waiting for purge to start
+2018-03-26 14:52:58 19 [Note] InnoDB: 5.6.37 started; log sequence number 13389556
+2018-03-26 14:52:58 19 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-03-26 14:52:58 19 [Note] IPv6 is available.
+2018-03-26 14:52:58 19 [Note]   - '::' resolves to '::';
+2018-03-26 14:52:58 19 [Note] Server socket created on IP: '::'.
+2018-03-26 14:52:58 19 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-03-26 14:52:59 19 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-03-26 14:52:59 19 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-03-26 14:52:59 19 [Note] Event Scheduler: Loaded 0 events
+2018-03-26 14:52:59 19 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-04-02 15:43:19 222 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-04-02 15:43:19 222 [Note] Plugin 'FEDERATED' is disabled.
+2018-04-02 15:43:19 222 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-04-02 15:43:19 222 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-04-02 15:43:19 222 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-04-02 15:43:19 222 [Note] InnoDB: Memory barrier is not used
+2018-04-02 15:43:19 222 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-04-02 15:43:19 222 [Note] InnoDB: Using Linux native AIO
+2018-04-02 15:43:19 222 [Note] InnoDB: Using CPU crc32 instructions
+2018-04-02 15:43:19 222 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-04-02 15:43:19 222 [Note] InnoDB: Completed initialization of buffer pool
+2018-04-02 15:43:19 222 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-04-02 15:43:19 222 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389566 in the ib_logfiles!
+2018-04-02 15:43:19 222 [Note] InnoDB: Database was not shutdown normally!
+2018-04-02 15:43:19 222 [Note] InnoDB: Starting crash recovery.
+2018-04-02 15:43:19 222 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-04-02 15:43:19 222 [Note] InnoDB: Restoring possible half-written data pages 
+2018-04-02 15:43:19 222 [Note] InnoDB: from the doublewrite buffer...
+2018-04-02 15:43:20 222 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-04-02 15:43:20 222 [Note] InnoDB: Waiting for purge to start
+2018-04-02 15:43:20 222 [Note] InnoDB: 5.6.37 started; log sequence number 13389566
+2018-04-02 15:43:20 222 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-04-02 15:43:20 222 [Note] IPv6 is available.
+2018-04-02 15:43:20 222 [Note]   - '::' resolves to '::';
+2018-04-02 15:43:20 222 [Note] Server socket created on IP: '::'.
+2018-04-02 15:43:20 222 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-02 15:43:20 222 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-02 15:43:20 222 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-02 15:43:20 222 [Note] Event Scheduler: Loaded 0 events
+2018-04-02 15:43:20 222 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-04-09 16:49:27 18 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-04-09 16:49:27 18 [Note] Plugin 'FEDERATED' is disabled.
+2018-04-09 16:49:27 18 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-04-09 16:49:27 18 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-04-09 16:49:27 18 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-04-09 16:49:27 18 [Note] InnoDB: Memory barrier is not used
+2018-04-09 16:49:27 18 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-04-09 16:49:27 18 [Note] InnoDB: Using Linux native AIO
+2018-04-09 16:49:27 18 [Note] InnoDB: Using CPU crc32 instructions
+2018-04-09 16:49:27 18 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-04-09 16:49:27 18 [Note] InnoDB: Completed initialization of buffer pool
+2018-04-09 16:49:27 18 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-04-09 16:49:27 18 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389576 in the ib_logfiles!
+2018-04-09 16:49:27 18 [Note] InnoDB: Database was not shutdown normally!
+2018-04-09 16:49:27 18 [Note] InnoDB: Starting crash recovery.
+2018-04-09 16:49:27 18 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-04-09 16:49:27 18 [Note] InnoDB: Restoring possible half-written data pages 
+2018-04-09 16:49:27 18 [Note] InnoDB: from the doublewrite buffer...
+2018-04-09 16:49:28 18 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-04-09 16:49:28 18 [Note] InnoDB: Waiting for purge to start
+2018-04-09 16:49:28 18 [Note] InnoDB: 5.6.37 started; log sequence number 13389576
+2018-04-09 16:49:28 18 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-04-09 16:49:28 18 [Note] IPv6 is available.
+2018-04-09 16:49:28 18 [Note]   - '::' resolves to '::';
+2018-04-09 16:49:28 18 [Note] Server socket created on IP: '::'.
+2018-04-09 16:49:28 18 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-09 16:49:28 18 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-09 16:49:28 18 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-09 16:49:28 18 [Note] Event Scheduler: Loaded 0 events
+2018-04-09 16:49:28 18 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-04-16 17:40:02 24 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-04-16 17:40:02 24 [Note] Plugin 'FEDERATED' is disabled.
+2018-04-16 17:40:02 24 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-04-16 17:40:02 24 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-04-16 17:40:02 24 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-04-16 17:40:02 24 [Note] InnoDB: Memory barrier is not used
+2018-04-16 17:40:02 24 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-04-16 17:40:02 24 [Note] InnoDB: Using Linux native AIO
+2018-04-16 17:40:02 24 [Note] InnoDB: Using CPU crc32 instructions
+2018-04-16 17:40:02 24 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-04-16 17:40:02 24 [Note] InnoDB: Completed initialization of buffer pool
+2018-04-16 17:40:02 24 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-04-16 17:40:02 24 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389586 in the ib_logfiles!
+2018-04-16 17:40:02 24 [Note] InnoDB: Database was not shutdown normally!
+2018-04-16 17:40:02 24 [Note] InnoDB: Starting crash recovery.
+2018-04-16 17:40:02 24 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-04-16 17:40:02 24 [Note] InnoDB: Restoring possible half-written data pages 
+2018-04-16 17:40:02 24 [Note] InnoDB: from the doublewrite buffer...
+2018-04-16 17:40:03 24 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-04-16 17:40:03 24 [Note] InnoDB: Waiting for purge to start
+2018-04-16 17:40:03 24 [Note] InnoDB: 5.6.37 started; log sequence number 13389586
+2018-04-16 17:40:03 24 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-04-16 17:40:03 24 [Note] IPv6 is available.
+2018-04-16 17:40:03 24 [Note]   - '::' resolves to '::';
+2018-04-16 17:40:03 24 [Note] Server socket created on IP: '::'.
+2018-04-16 17:40:03 24 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-16 17:40:03 24 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-16 17:40:03 24 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-16 17:40:03 24 [Note] Event Scheduler: Loaded 0 events
+2018-04-16 17:40:03 24 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-04-18 17:43:03 247 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-04-18 17:43:03 247 [Note] Plugin 'FEDERATED' is disabled.
+2018-04-18 17:43:03 247 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-04-18 17:43:03 247 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-04-18 17:43:03 247 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-04-18 17:43:03 247 [Note] InnoDB: Memory barrier is not used
+2018-04-18 17:43:03 247 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-04-18 17:43:03 247 [Note] InnoDB: Using Linux native AIO
+2018-04-18 17:43:03 247 [Note] InnoDB: Using CPU crc32 instructions
+2018-04-18 17:43:03 247 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-04-18 17:43:03 247 [Note] InnoDB: Completed initialization of buffer pool
+2018-04-18 17:43:03 247 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-04-18 17:43:03 247 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389596 in the ib_logfiles!
+2018-04-18 17:43:03 247 [Note] InnoDB: Database was not shutdown normally!
+2018-04-18 17:43:03 247 [Note] InnoDB: Starting crash recovery.
+2018-04-18 17:43:03 247 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-04-18 17:43:03 247 [Note] InnoDB: Restoring possible half-written data pages 
+2018-04-18 17:43:03 247 [Note] InnoDB: from the doublewrite buffer...
+2018-04-18 17:43:04 247 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-04-18 17:43:04 247 [Note] InnoDB: Waiting for purge to start
+2018-04-18 17:43:04 247 [Note] InnoDB: 5.6.37 started; log sequence number 13389596
+2018-04-18 17:43:04 247 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-04-18 17:43:04 247 [Note] IPv6 is available.
+2018-04-18 17:43:04 247 [Note]   - '::' resolves to '::';
+2018-04-18 17:43:04 247 [Note] Server socket created on IP: '::'.
+2018-04-18 17:43:04 247 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-18 17:43:04 247 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-18 17:43:04 247 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-18 17:43:04 247 [Note] Event Scheduler: Loaded 0 events
+2018-04-18 17:43:04 247 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-04-20 18:43:43 23 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-04-20 18:43:43 23 [Note] Plugin 'FEDERATED' is disabled.
+2018-04-20 18:43:43 23 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-04-20 18:43:43 23 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-04-20 18:43:43 23 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-04-20 18:43:43 23 [Note] InnoDB: Memory barrier is not used
+2018-04-20 18:43:43 23 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-04-20 18:43:43 23 [Note] InnoDB: Using Linux native AIO
+2018-04-20 18:43:43 23 [Note] InnoDB: Using CPU crc32 instructions
+2018-04-20 18:43:43 23 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-04-20 18:43:43 23 [Note] InnoDB: Completed initialization of buffer pool
+2018-04-20 18:43:43 23 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-04-20 18:43:43 23 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389606 in the ib_logfiles!
+2018-04-20 18:43:43 23 [Note] InnoDB: Database was not shutdown normally!
+2018-04-20 18:43:43 23 [Note] InnoDB: Starting crash recovery.
+2018-04-20 18:43:43 23 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-04-20 18:43:43 23 [Note] InnoDB: Restoring possible half-written data pages 
+2018-04-20 18:43:43 23 [Note] InnoDB: from the doublewrite buffer...
+2018-04-20 18:43:44 23 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-04-20 18:43:44 23 [Note] InnoDB: Waiting for purge to start
+2018-04-20 18:43:44 23 [Note] InnoDB: 5.6.37 started; log sequence number 13389606
+2018-04-20 18:43:44 23 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-04-20 18:43:44 23 [Note] IPv6 is available.
+2018-04-20 18:43:44 23 [Note]   - '::' resolves to '::';
+2018-04-20 18:43:44 23 [Note] Server socket created on IP: '::'.
+2018-04-20 18:43:45 23 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-20 18:43:45 23 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-20 18:43:45 23 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-20 18:43:45 23 [Note] Event Scheduler: Loaded 0 events
+2018-04-20 18:43:45 23 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-04-23 13:01:21 20 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-04-23 13:01:21 20 [Note] Plugin 'FEDERATED' is disabled.
+2018-04-23 13:01:21 20 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-04-23 13:01:21 20 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-04-23 13:01:21 20 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-04-23 13:01:21 20 [Note] InnoDB: Memory barrier is not used
+2018-04-23 13:01:21 20 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-04-23 13:01:21 20 [Note] InnoDB: Using Linux native AIO
+2018-04-23 13:01:21 20 [Note] InnoDB: Using CPU crc32 instructions
+2018-04-23 13:01:21 20 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-04-23 13:01:21 20 [Note] InnoDB: Completed initialization of buffer pool
+2018-04-23 13:01:21 20 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-04-23 13:01:21 20 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389616 in the ib_logfiles!
+2018-04-23 13:01:21 20 [Note] InnoDB: Database was not shutdown normally!
+2018-04-23 13:01:21 20 [Note] InnoDB: Starting crash recovery.
+2018-04-23 13:01:21 20 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-04-23 13:01:21 20 [Note] InnoDB: Restoring possible half-written data pages 
+2018-04-23 13:01:21 20 [Note] InnoDB: from the doublewrite buffer...
+2018-04-23 13:01:22 20 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-04-23 13:01:22 20 [Note] InnoDB: Waiting for purge to start
+2018-04-23 13:01:22 20 [Note] InnoDB: 5.6.37 started; log sequence number 13389616
+2018-04-23 13:01:22 20 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-04-23 13:01:22 20 [Note] IPv6 is available.
+2018-04-23 13:01:22 20 [Note]   - '::' resolves to '::';
+2018-04-23 13:01:22 20 [Note] Server socket created on IP: '::'.
+2018-04-23 13:01:22 20 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-23 13:01:22 20 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-23 13:01:22 20 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-23 13:01:23 20 [Note] Event Scheduler: Loaded 0 events
+2018-04-23 13:01:23 20 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-04-24 19:13:57 24 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-04-24 19:13:57 24 [Note] Plugin 'FEDERATED' is disabled.
+2018-04-24 19:13:57 24 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-04-24 19:13:57 24 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-04-24 19:13:57 24 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-04-24 19:13:57 24 [Note] InnoDB: Memory barrier is not used
+2018-04-24 19:13:57 24 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-04-24 19:13:57 24 [Note] InnoDB: Using Linux native AIO
+2018-04-24 19:13:57 24 [Note] InnoDB: Using CPU crc32 instructions
+2018-04-24 19:13:57 24 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-04-24 19:13:57 24 [Note] InnoDB: Completed initialization of buffer pool
+2018-04-24 19:13:57 24 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-04-24 19:13:58 24 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389626 in the ib_logfiles!
+2018-04-24 19:13:58 24 [Note] InnoDB: Database was not shutdown normally!
+2018-04-24 19:13:58 24 [Note] InnoDB: Starting crash recovery.
+2018-04-24 19:13:58 24 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-04-24 19:13:58 24 [Note] InnoDB: Restoring possible half-written data pages 
+2018-04-24 19:13:58 24 [Note] InnoDB: from the doublewrite buffer...
+2018-04-24 19:13:59 24 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-04-24 19:14:00 24 [Note] InnoDB: Waiting for purge to start
+2018-04-24 19:14:00 24 [Note] InnoDB: 5.6.37 started; log sequence number 13389626
+2018-04-24 19:14:00 24 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-04-24 19:14:00 24 [Note] IPv6 is available.
+2018-04-24 19:14:00 24 [Note]   - '::' resolves to '::';
+2018-04-24 19:14:00 24 [Note] Server socket created on IP: '::'.
+2018-04-24 19:14:00 24 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-24 19:14:00 24 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-24 19:14:00 24 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-24 19:14:00 24 [Note] Event Scheduler: Loaded 0 events
+2018-04-24 19:14:00 24 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-04-25 13:59:01 24 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-04-25 13:59:01 24 [Note] Plugin 'FEDERATED' is disabled.
+2018-04-25 13:59:01 24 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-04-25 13:59:01 24 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-04-25 13:59:01 24 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-04-25 13:59:01 24 [Note] InnoDB: Memory barrier is not used
+2018-04-25 13:59:01 24 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-04-25 13:59:01 24 [Note] InnoDB: Using Linux native AIO
+2018-04-25 13:59:01 24 [Note] InnoDB: Using CPU crc32 instructions
+2018-04-25 13:59:01 24 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-04-25 13:59:01 24 [Note] InnoDB: Completed initialization of buffer pool
+2018-04-25 13:59:01 24 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-04-25 13:59:01 24 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389636 in the ib_logfiles!
+2018-04-25 13:59:01 24 [Note] InnoDB: Database was not shutdown normally!
+2018-04-25 13:59:01 24 [Note] InnoDB: Starting crash recovery.
+2018-04-25 13:59:01 24 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-04-25 13:59:01 24 [Note] InnoDB: Restoring possible half-written data pages 
+2018-04-25 13:59:01 24 [Note] InnoDB: from the doublewrite buffer...
+2018-04-25 13:59:02 24 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-04-25 13:59:02 24 [Note] InnoDB: Waiting for purge to start
+2018-04-25 13:59:02 24 [Note] InnoDB: 5.6.37 started; log sequence number 13389636
+2018-04-25 13:59:02 24 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-04-25 13:59:02 24 [Note] IPv6 is available.
+2018-04-25 13:59:02 24 [Note]   - '::' resolves to '::';
+2018-04-25 13:59:02 24 [Note] Server socket created on IP: '::'.
+2018-04-25 13:59:02 24 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-25 13:59:02 24 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-25 13:59:02 24 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-25 13:59:02 24 [Note] Event Scheduler: Loaded 0 events
+2018-04-25 13:59:02 24 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-04-25 17:07:31 19 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-04-25 17:07:31 19 [Note] Plugin 'FEDERATED' is disabled.
+2018-04-25 17:07:31 19 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-04-25 17:07:31 19 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-04-25 17:07:31 19 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-04-25 17:07:31 19 [Note] InnoDB: Memory barrier is not used
+2018-04-25 17:07:31 19 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-04-25 17:07:31 19 [Note] InnoDB: Using Linux native AIO
+2018-04-25 17:07:31 19 [Note] InnoDB: Using CPU crc32 instructions
+2018-04-25 17:07:31 19 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-04-25 17:07:31 19 [Note] InnoDB: Completed initialization of buffer pool
+2018-04-25 17:07:32 19 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-04-25 17:07:32 19 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389646 in the ib_logfiles!
+2018-04-25 17:07:32 19 [Note] InnoDB: Database was not shutdown normally!
+2018-04-25 17:07:32 19 [Note] InnoDB: Starting crash recovery.
+2018-04-25 17:07:32 19 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-04-25 17:07:32 19 [Note] InnoDB: Restoring possible half-written data pages 
+2018-04-25 17:07:32 19 [Note] InnoDB: from the doublewrite buffer...
+2018-04-25 17:07:33 19 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-04-25 17:07:33 19 [Note] InnoDB: Waiting for purge to start
+2018-04-25 17:07:33 19 [Note] InnoDB: 5.6.37 started; log sequence number 13389646
+2018-04-25 17:07:33 19 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-04-25 17:07:33 19 [Note] IPv6 is available.
+2018-04-25 17:07:33 19 [Note]   - '::' resolves to '::';
+2018-04-25 17:07:33 19 [Note] Server socket created on IP: '::'.
+2018-04-25 17:07:34 19 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-25 17:07:34 19 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-25 17:07:34 19 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-25 17:07:34 19 [Note] Event Scheduler: Loaded 0 events
+2018-04-25 17:07:35 19 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-04-25 18:01:26 31 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-04-25 18:01:26 31 [Note] Plugin 'FEDERATED' is disabled.
+2018-04-25 18:01:26 31 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-04-25 18:01:26 31 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-04-25 18:01:26 31 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-04-25 18:01:26 31 [Note] InnoDB: Memory barrier is not used
+2018-04-25 18:01:26 31 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-04-25 18:01:26 31 [Note] InnoDB: Using Linux native AIO
+2018-04-25 18:01:26 31 [Note] InnoDB: Using CPU crc32 instructions
+2018-04-25 18:01:26 31 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-04-25 18:01:26 31 [Note] InnoDB: Completed initialization of buffer pool
+2018-04-25 18:01:26 31 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-04-25 18:01:26 31 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389656 in the ib_logfiles!
+2018-04-25 18:01:26 31 [Note] InnoDB: Database was not shutdown normally!
+2018-04-25 18:01:26 31 [Note] InnoDB: Starting crash recovery.
+2018-04-25 18:01:26 31 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-04-25 18:01:26 31 [Note] InnoDB: Restoring possible half-written data pages 
+2018-04-25 18:01:26 31 [Note] InnoDB: from the doublewrite buffer...
+2018-04-25 18:01:26 31 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-04-25 18:01:26 31 [Note] InnoDB: Waiting for purge to start
+2018-04-25 18:01:26 31 [Note] InnoDB: 5.6.37 started; log sequence number 13389656
+2018-04-25 18:01:26 31 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-04-25 18:01:26 31 [Note] IPv6 is available.
+2018-04-25 18:01:26 31 [Note]   - '::' resolves to '::';
+2018-04-25 18:01:26 31 [Note] Server socket created on IP: '::'.
+2018-04-25 18:01:26 31 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-25 18:01:26 31 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-25 18:01:27 31 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-25 18:01:27 31 [Note] Event Scheduler: Loaded 0 events
+2018-04-25 18:01:27 31 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-04-26 13:07:22 247 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-04-26 13:07:22 247 [Note] Plugin 'FEDERATED' is disabled.
+2018-04-26 13:07:22 247 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-04-26 13:07:22 247 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-04-26 13:07:22 247 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-04-26 13:07:22 247 [Note] InnoDB: Memory barrier is not used
+2018-04-26 13:07:22 247 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-04-26 13:07:22 247 [Note] InnoDB: Using Linux native AIO
+2018-04-26 13:07:22 247 [Note] InnoDB: Using CPU crc32 instructions
+2018-04-26 13:07:22 247 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-04-26 13:07:22 247 [Note] InnoDB: Completed initialization of buffer pool
+2018-04-26 13:07:22 247 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-04-26 13:07:22 247 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389666 in the ib_logfiles!
+2018-04-26 13:07:22 247 [Note] InnoDB: Database was not shutdown normally!
+2018-04-26 13:07:22 247 [Note] InnoDB: Starting crash recovery.
+2018-04-26 13:07:22 247 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-04-26 13:07:22 247 [Note] InnoDB: Restoring possible half-written data pages 
+2018-04-26 13:07:22 247 [Note] InnoDB: from the doublewrite buffer...
+2018-04-26 13:07:23 247 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-04-26 13:07:23 247 [Note] InnoDB: Waiting for purge to start
+2018-04-26 13:07:23 247 [Note] InnoDB: 5.6.37 started; log sequence number 13389666
+2018-04-26 13:07:23 247 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-04-26 13:07:23 247 [Note] IPv6 is available.
+2018-04-26 13:07:23 247 [Note]   - '::' resolves to '::';
+2018-04-26 13:07:23 247 [Note] Server socket created on IP: '::'.
+2018-04-26 13:07:23 247 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-26 13:07:23 247 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-26 13:07:23 247 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-26 13:07:23 247 [Note] Event Scheduler: Loaded 0 events
+2018-04-26 13:07:23 247 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-04-30 16:07:38 28 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-04-30 16:07:38 28 [Note] Plugin 'FEDERATED' is disabled.
+2018-04-30 16:07:38 28 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-04-30 16:07:38 28 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-04-30 16:07:38 28 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-04-30 16:07:38 28 [Note] InnoDB: Memory barrier is not used
+2018-04-30 16:07:38 28 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-04-30 16:07:38 28 [Note] InnoDB: Using Linux native AIO
+2018-04-30 16:07:38 28 [Note] InnoDB: Using CPU crc32 instructions
+2018-04-30 16:07:38 28 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-04-30 16:07:38 28 [Note] InnoDB: Completed initialization of buffer pool
+2018-04-30 16:07:39 28 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-04-30 16:07:39 28 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389676 in the ib_logfiles!
+2018-04-30 16:07:39 28 [Note] InnoDB: Database was not shutdown normally!
+2018-04-30 16:07:39 28 [Note] InnoDB: Starting crash recovery.
+2018-04-30 16:07:39 28 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-04-30 16:07:39 28 [Note] InnoDB: Restoring possible half-written data pages 
+2018-04-30 16:07:39 28 [Note] InnoDB: from the doublewrite buffer...
+2018-04-30 16:07:41 28 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-04-30 16:07:41 28 [Note] InnoDB: Waiting for purge to start
+2018-04-30 16:07:41 28 [Note] InnoDB: 5.6.37 started; log sequence number 13389676
+2018-04-30 16:07:41 28 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-04-30 16:07:41 28 [Note] IPv6 is available.
+2018-04-30 16:07:41 28 [Note]   - '::' resolves to '::';
+2018-04-30 16:07:41 28 [Note] Server socket created on IP: '::'.
+2018-04-30 16:07:41 28 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-30 16:07:41 28 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-30 16:07:41 28 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-04-30 16:07:41 28 [Note] Event Scheduler: Loaded 0 events
+2018-04-30 16:07:41 28 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-05-01 12:43:05 247 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-05-01 12:43:05 247 [Note] Plugin 'FEDERATED' is disabled.
+2018-05-01 12:43:05 247 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-05-01 12:43:05 247 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-05-01 12:43:05 247 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-05-01 12:43:05 247 [Note] InnoDB: Memory barrier is not used
+2018-05-01 12:43:05 247 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-05-01 12:43:05 247 [Note] InnoDB: Using Linux native AIO
+2018-05-01 12:43:05 247 [Note] InnoDB: Using CPU crc32 instructions
+2018-05-01 12:43:05 247 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-05-01 12:43:05 247 [Note] InnoDB: Completed initialization of buffer pool
+2018-05-01 12:43:05 247 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-05-01 12:43:05 247 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389686 in the ib_logfiles!
+2018-05-01 12:43:05 247 [Note] InnoDB: Database was not shutdown normally!
+2018-05-01 12:43:05 247 [Note] InnoDB: Starting crash recovery.
+2018-05-01 12:43:05 247 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-05-01 12:43:05 247 [Note] InnoDB: Restoring possible half-written data pages 
+2018-05-01 12:43:05 247 [Note] InnoDB: from the doublewrite buffer...
+2018-05-01 12:43:06 247 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-05-01 12:43:06 247 [Note] InnoDB: Waiting for purge to start
+2018-05-01 12:43:06 247 [Note] InnoDB: 5.6.37 started; log sequence number 13389686
+2018-05-01 12:43:06 247 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-05-01 12:43:06 247 [Note] IPv6 is available.
+2018-05-01 12:43:06 247 [Note]   - '::' resolves to '::';
+2018-05-01 12:43:06 247 [Note] Server socket created on IP: '::'.
+2018-05-01 12:43:06 247 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-01 12:43:06 247 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-01 12:43:06 247 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-01 12:43:06 247 [Note] Event Scheduler: Loaded 0 events
+2018-05-01 12:43:06 247 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-05-01 13:28:32 19 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-05-01 13:28:32 19 [Note] Plugin 'FEDERATED' is disabled.
+2018-05-01 13:28:32 19 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-05-01 13:28:32 19 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-05-01 13:28:32 19 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-05-01 13:28:32 19 [Note] InnoDB: Memory barrier is not used
+2018-05-01 13:28:32 19 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-05-01 13:28:32 19 [Note] InnoDB: Using Linux native AIO
+2018-05-01 13:28:32 19 [Note] InnoDB: Using CPU crc32 instructions
+2018-05-01 13:28:32 19 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-05-01 13:28:32 19 [Note] InnoDB: Completed initialization of buffer pool
+2018-05-01 13:28:32 19 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-05-01 13:28:32 19 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389696 in the ib_logfiles!
+2018-05-01 13:28:32 19 [Note] InnoDB: Database was not shutdown normally!
+2018-05-01 13:28:32 19 [Note] InnoDB: Starting crash recovery.
+2018-05-01 13:28:32 19 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-05-01 13:28:32 19 [Note] InnoDB: Restoring possible half-written data pages 
+2018-05-01 13:28:32 19 [Note] InnoDB: from the doublewrite buffer...
+2018-05-01 13:28:33 19 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-05-01 13:28:33 19 [Note] InnoDB: Waiting for purge to start
+2018-05-01 13:28:33 19 [Note] InnoDB: 5.6.37 started; log sequence number 13389696
+2018-05-01 13:28:33 19 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-05-01 13:28:33 19 [Note] IPv6 is available.
+2018-05-01 13:28:33 19 [Note]   - '::' resolves to '::';
+2018-05-01 13:28:33 19 [Note] Server socket created on IP: '::'.
+2018-05-01 13:28:34 19 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-01 13:28:34 19 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-01 13:28:34 19 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-01 13:28:34 19 [Note] Event Scheduler: Loaded 0 events
+2018-05-01 13:28:34 19 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-05-01 15:00:44 247 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-05-01 15:00:44 247 [Note] Plugin 'FEDERATED' is disabled.
+2018-05-01 15:00:44 247 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-05-01 15:00:44 247 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-05-01 15:00:44 247 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-05-01 15:00:44 247 [Note] InnoDB: Memory barrier is not used
+2018-05-01 15:00:44 247 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-05-01 15:00:44 247 [Note] InnoDB: Using Linux native AIO
+2018-05-01 15:00:44 247 [Note] InnoDB: Using CPU crc32 instructions
+2018-05-01 15:00:44 247 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-05-01 15:00:44 247 [Note] InnoDB: Completed initialization of buffer pool
+2018-05-01 15:00:44 247 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-05-01 15:00:44 247 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389706 in the ib_logfiles!
+2018-05-01 15:00:44 247 [Note] InnoDB: Database was not shutdown normally!
+2018-05-01 15:00:44 247 [Note] InnoDB: Starting crash recovery.
+2018-05-01 15:00:44 247 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-05-01 15:00:44 247 [Note] InnoDB: Restoring possible half-written data pages 
+2018-05-01 15:00:45 247 [Note] InnoDB: from the doublewrite buffer...
+2018-05-01 15:00:46 247 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-05-01 15:00:46 247 [Note] InnoDB: Waiting for purge to start
+2018-05-01 15:00:46 247 [Note] InnoDB: 5.6.37 started; log sequence number 13389706
+2018-05-01 15:00:46 247 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-05-01 15:00:46 247 [Note] IPv6 is available.
+2018-05-01 15:00:46 247 [Note]   - '::' resolves to '::';
+2018-05-01 15:00:46 247 [Note] Server socket created on IP: '::'.
+2018-05-01 15:00:46 247 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-01 15:00:46 247 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-01 15:00:46 247 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-01 15:00:46 247 [Note] Event Scheduler: Loaded 0 events
+2018-05-01 15:00:46 247 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-05-01 17:59:17 24 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-05-01 17:59:17 24 [Note] Plugin 'FEDERATED' is disabled.
+2018-05-01 17:59:17 24 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-05-01 17:59:17 24 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-05-01 17:59:17 24 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-05-01 17:59:17 24 [Note] InnoDB: Memory barrier is not used
+2018-05-01 17:59:17 24 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-05-01 17:59:17 24 [Note] InnoDB: Using Linux native AIO
+2018-05-01 17:59:17 24 [Note] InnoDB: Using CPU crc32 instructions
+2018-05-01 17:59:17 24 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-05-01 17:59:17 24 [Note] InnoDB: Completed initialization of buffer pool
+2018-05-01 17:59:17 24 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-05-01 17:59:17 24 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389716 in the ib_logfiles!
+2018-05-01 17:59:17 24 [Note] InnoDB: Database was not shutdown normally!
+2018-05-01 17:59:17 24 [Note] InnoDB: Starting crash recovery.
+2018-05-01 17:59:17 24 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-05-01 17:59:18 24 [Note] InnoDB: Restoring possible half-written data pages 
+2018-05-01 17:59:18 24 [Note] InnoDB: from the doublewrite buffer...
+2018-05-01 17:59:19 24 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-05-01 17:59:19 24 [Note] InnoDB: Waiting for purge to start
+2018-05-01 17:59:19 24 [Note] InnoDB: 5.6.37 started; log sequence number 13389716
+2018-05-01 17:59:19 24 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-05-01 17:59:19 24 [Note] IPv6 is available.
+2018-05-01 17:59:19 24 [Note]   - '::' resolves to '::';
+2018-05-01 17:59:19 24 [Note] Server socket created on IP: '::'.
+2018-05-01 17:59:19 24 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-01 17:59:19 24 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-01 17:59:19 24 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-01 17:59:19 24 [Note] Event Scheduler: Loaded 0 events
+2018-05-01 17:59:19 24 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-05-03 13:09:39 246 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-05-03 13:09:39 246 [Note] Plugin 'FEDERATED' is disabled.
+2018-05-03 13:09:39 246 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-05-03 13:09:39 246 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-05-03 13:09:39 246 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-05-03 13:09:39 246 [Note] InnoDB: Memory barrier is not used
+2018-05-03 13:09:39 246 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-05-03 13:09:39 246 [Note] InnoDB: Using Linux native AIO
+2018-05-03 13:09:39 246 [Note] InnoDB: Using CPU crc32 instructions
+2018-05-03 13:09:39 246 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-05-03 13:09:39 246 [Note] InnoDB: Completed initialization of buffer pool
+2018-05-03 13:09:39 246 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-05-03 13:09:39 246 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389726 in the ib_logfiles!
+2018-05-03 13:09:39 246 [Note] InnoDB: Database was not shutdown normally!
+2018-05-03 13:09:39 246 [Note] InnoDB: Starting crash recovery.
+2018-05-03 13:09:39 246 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-05-03 13:09:40 246 [Note] InnoDB: Restoring possible half-written data pages 
+2018-05-03 13:09:40 246 [Note] InnoDB: from the doublewrite buffer...
+2018-05-03 13:09:40 246 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-05-03 13:09:40 246 [Note] InnoDB: Waiting for purge to start
+2018-05-03 13:09:40 246 [Note] InnoDB: 5.6.37 started; log sequence number 13389726
+2018-05-03 13:09:40 246 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-05-03 13:09:40 246 [Note] IPv6 is available.
+2018-05-03 13:09:40 246 [Note]   - '::' resolves to '::';
+2018-05-03 13:09:40 246 [Note] Server socket created on IP: '::'.
+2018-05-03 13:09:40 246 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-03 13:09:40 246 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-03 13:09:40 246 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-03 13:09:40 246 [Note] Event Scheduler: Loaded 0 events
+2018-05-03 13:09:40 246 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-05-14 20:27:50 20 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-05-14 20:27:50 20 [Note] Plugin 'FEDERATED' is disabled.
+2018-05-14 20:27:50 20 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-05-14 20:27:50 20 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-05-14 20:27:50 20 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-05-14 20:27:50 20 [Note] InnoDB: Memory barrier is not used
+2018-05-14 20:27:50 20 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-05-14 20:27:50 20 [Note] InnoDB: Using Linux native AIO
+2018-05-14 20:27:50 20 [Note] InnoDB: Using CPU crc32 instructions
+2018-05-14 20:27:53 20 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-05-14 20:27:53 20 [Note] InnoDB: Completed initialization of buffer pool
+2018-05-14 20:27:54 20 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-05-14 20:27:54 20 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389736 in the ib_logfiles!
+2018-05-14 20:27:54 20 [Note] InnoDB: Database was not shutdown normally!
+2018-05-14 20:27:54 20 [Note] InnoDB: Starting crash recovery.
+2018-05-14 20:27:54 20 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-05-14 20:27:55 20 [Note] InnoDB: Restoring possible half-written data pages 
+2018-05-14 20:27:55 20 [Note] InnoDB: from the doublewrite buffer...
+2018-05-14 20:27:56 20 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-05-14 20:27:56 20 [Note] InnoDB: Waiting for purge to start
+2018-05-14 20:27:56 20 [Note] InnoDB: 5.6.37 started; log sequence number 13389736
+2018-05-14 20:27:56 20 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-05-14 20:27:56 20 [Note] IPv6 is available.
+2018-05-14 20:27:56 20 [Note]   - '::' resolves to '::';
+2018-05-14 20:27:56 20 [Note] Server socket created on IP: '::'.
+2018-05-14 20:27:56 20 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-14 20:27:56 20 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-14 20:27:56 20 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-14 20:27:57 20 [Note] Event Scheduler: Loaded 0 events
+2018-05-14 20:27:57 20 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-05-30 16:58:29 29 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-05-30 16:58:29 29 [Note] Plugin 'FEDERATED' is disabled.
+2018-05-30 16:58:29 29 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-05-30 16:58:29 29 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-05-30 16:58:29 29 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-05-30 16:58:29 29 [Note] InnoDB: Memory barrier is not used
+2018-05-30 16:58:29 29 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-05-30 16:58:29 29 [Note] InnoDB: Using Linux native AIO
+2018-05-30 16:58:29 29 [Note] InnoDB: Using CPU crc32 instructions
+2018-05-30 16:58:29 29 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-05-30 16:58:29 29 [Note] InnoDB: Completed initialization of buffer pool
+2018-05-30 16:58:30 29 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-05-30 16:58:30 29 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389746 in the ib_logfiles!
+2018-05-30 16:58:30 29 [Note] InnoDB: Database was not shutdown normally!
+2018-05-30 16:58:30 29 [Note] InnoDB: Starting crash recovery.
+2018-05-30 16:58:30 29 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-05-30 16:58:30 29 [Note] InnoDB: Restoring possible half-written data pages 
+2018-05-30 16:58:30 29 [Note] InnoDB: from the doublewrite buffer...
+2018-05-30 16:58:31 29 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-05-30 16:58:31 29 [Note] InnoDB: Waiting for purge to start
+2018-05-30 16:58:31 29 [Note] InnoDB: 5.6.37 started; log sequence number 13389746
+2018-05-30 16:58:31 29 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-05-30 16:58:31 29 [Note] IPv6 is available.
+2018-05-30 16:58:31 29 [Note]   - '::' resolves to '::';
+2018-05-30 16:58:31 29 [Note] Server socket created on IP: '::'.
+2018-05-30 16:58:31 29 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-30 16:58:31 29 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-30 16:58:31 29 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-30 16:58:31 29 [Note] Event Scheduler: Loaded 0 events
+2018-05-30 16:58:31 29 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-05-30 20:35:49 246 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-05-30 20:35:49 246 [Note] Plugin 'FEDERATED' is disabled.
+2018-05-30 20:35:49 246 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-05-30 20:35:49 246 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-05-30 20:35:49 246 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-05-30 20:35:49 246 [Note] InnoDB: Memory barrier is not used
+2018-05-30 20:35:49 246 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-05-30 20:35:49 246 [Note] InnoDB: Using Linux native AIO
+2018-05-30 20:35:49 246 [Note] InnoDB: Using CPU crc32 instructions
+2018-05-30 20:35:49 246 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-05-30 20:35:49 246 [Note] InnoDB: Completed initialization of buffer pool
+2018-05-30 20:35:50 246 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-05-30 20:35:50 246 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389756 in the ib_logfiles!
+2018-05-30 20:35:50 246 [Note] InnoDB: Database was not shutdown normally!
+2018-05-30 20:35:50 246 [Note] InnoDB: Starting crash recovery.
+2018-05-30 20:35:50 246 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-05-30 20:35:50 246 [Note] InnoDB: Restoring possible half-written data pages 
+2018-05-30 20:35:50 246 [Note] InnoDB: from the doublewrite buffer...
+2018-05-30 20:35:50 246 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-05-30 20:35:50 246 [Note] InnoDB: Waiting for purge to start
+2018-05-30 20:35:50 246 [Note] InnoDB: 5.6.37 started; log sequence number 13389756
+2018-05-30 20:35:50 246 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-05-30 20:35:50 246 [Note] IPv6 is available.
+2018-05-30 20:35:50 246 [Note]   - '::' resolves to '::';
+2018-05-30 20:35:50 246 [Note] Server socket created on IP: '::'.
+2018-05-30 20:35:50 246 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-30 20:35:50 246 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-30 20:35:50 246 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-05-30 20:35:50 246 [Note] Event Scheduler: Loaded 0 events
+2018-05-30 20:35:50 246 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-06-13 20:30:12 23 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-06-13 20:30:12 23 [Note] Plugin 'FEDERATED' is disabled.
+2018-06-13 20:30:12 23 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-06-13 20:30:12 23 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-13 20:30:12 23 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-06-13 20:30:12 23 [Note] InnoDB: Memory barrier is not used
+2018-06-13 20:30:12 23 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-13 20:30:12 23 [Note] InnoDB: Using Linux native AIO
+2018-06-13 20:30:12 23 [Note] InnoDB: Using CPU crc32 instructions
+2018-06-13 20:30:12 23 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-06-13 20:30:12 23 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-13 20:30:12 23 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-13 20:30:12 23 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389766 in the ib_logfiles!
+2018-06-13 20:30:12 23 [Note] InnoDB: Database was not shutdown normally!
+2018-06-13 20:30:12 23 [Note] InnoDB: Starting crash recovery.
+2018-06-13 20:30:12 23 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-06-13 20:30:12 23 [Note] InnoDB: Restoring possible half-written data pages 
+2018-06-13 20:30:12 23 [Note] InnoDB: from the doublewrite buffer...
+2018-06-13 20:30:13 23 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-13 20:30:13 23 [Note] InnoDB: Waiting for purge to start
+2018-06-13 20:30:13 23 [Note] InnoDB: 5.6.37 started; log sequence number 13389766
+2018-06-13 20:30:13 23 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-06-13 20:30:13 23 [Note] IPv6 is available.
+2018-06-13 20:30:13 23 [Note]   - '::' resolves to '::';
+2018-06-13 20:30:13 23 [Note] Server socket created on IP: '::'.
+2018-06-13 20:30:14 23 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-13 20:30:14 23 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-13 20:30:14 23 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-13 20:30:14 23 [Note] Event Scheduler: Loaded 0 events
+2018-06-13 20:30:14 23 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-06-14 17:45:17 25 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-06-14 17:45:17 25 [Note] Plugin 'FEDERATED' is disabled.
+2018-06-14 17:45:17 25 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-06-14 17:45:17 25 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-14 17:45:17 25 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-06-14 17:45:17 25 [Note] InnoDB: Memory barrier is not used
+2018-06-14 17:45:17 25 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-14 17:45:17 25 [Note] InnoDB: Using Linux native AIO
+2018-06-14 17:45:17 25 [Note] InnoDB: Using CPU crc32 instructions
+2018-06-14 17:45:17 25 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-06-14 17:45:17 25 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-14 17:45:17 25 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-14 17:45:17 25 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389776 in the ib_logfiles!
+2018-06-14 17:45:17 25 [Note] InnoDB: Database was not shutdown normally!
+2018-06-14 17:45:17 25 [Note] InnoDB: Starting crash recovery.
+2018-06-14 17:45:17 25 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-06-14 17:45:17 25 [Note] InnoDB: Restoring possible half-written data pages 
+2018-06-14 17:45:17 25 [Note] InnoDB: from the doublewrite buffer...
+2018-06-14 17:45:18 25 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-14 17:45:18 25 [Note] InnoDB: Waiting for purge to start
+2018-06-14 17:45:18 25 [Note] InnoDB: 5.6.37 started; log sequence number 13389776
+2018-06-14 17:45:18 25 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-06-14 17:45:18 25 [Note] IPv6 is available.
+2018-06-14 17:45:18 25 [Note]   - '::' resolves to '::';
+2018-06-14 17:45:18 25 [Note] Server socket created on IP: '::'.
+2018-06-14 17:45:18 25 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-14 17:45:18 25 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-14 17:45:18 25 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-14 17:45:18 25 [Note] Event Scheduler: Loaded 0 events
+2018-06-14 17:45:18 25 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-06-15 16:30:07 19 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-06-15 16:30:07 19 [Note] Plugin 'FEDERATED' is disabled.
+2018-06-15 16:30:07 19 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-06-15 16:30:07 19 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-15 16:30:07 19 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-06-15 16:30:07 19 [Note] InnoDB: Memory barrier is not used
+2018-06-15 16:30:07 19 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-15 16:30:07 19 [Note] InnoDB: Using Linux native AIO
+2018-06-15 16:30:07 19 [Note] InnoDB: Using CPU crc32 instructions
+2018-06-15 16:30:07 19 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-06-15 16:30:08 19 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-15 16:30:08 19 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-15 16:30:08 19 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389786 in the ib_logfiles!
+2018-06-15 16:30:08 19 [Note] InnoDB: Database was not shutdown normally!
+2018-06-15 16:30:08 19 [Note] InnoDB: Starting crash recovery.
+2018-06-15 16:30:08 19 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-06-15 16:30:08 19 [Note] InnoDB: Restoring possible half-written data pages 
+2018-06-15 16:30:08 19 [Note] InnoDB: from the doublewrite buffer...
+2018-06-15 16:30:10 19 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-15 16:30:12 19 [Note] InnoDB: Waiting for purge to start
+2018-06-15 16:30:12 19 [Note] InnoDB: 5.6.37 started; log sequence number 13389786
+2018-06-15 16:30:13 19 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-06-15 16:30:13 19 [Note] IPv6 is available.
+2018-06-15 16:30:13 19 [Note]   - '::' resolves to '::';
+2018-06-15 16:30:13 19 [Note] Server socket created on IP: '::'.
+2018-06-15 16:30:13 19 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-15 16:30:13 19 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-15 16:30:13 19 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-15 16:30:13 19 [Note] Event Scheduler: Loaded 0 events
+2018-06-15 16:30:13 19 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-06-20 15:13:15 247 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-06-20 15:13:15 247 [Note] Plugin 'FEDERATED' is disabled.
+2018-06-20 15:13:15 247 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-06-20 15:13:15 247 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-20 15:13:15 247 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-06-20 15:13:15 247 [Note] InnoDB: Memory barrier is not used
+2018-06-20 15:13:15 247 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-20 15:13:15 247 [Note] InnoDB: Using Linux native AIO
+2018-06-20 15:13:15 247 [Note] InnoDB: Using CPU crc32 instructions
+2018-06-20 15:13:15 247 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-06-20 15:13:15 247 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-20 15:13:15 247 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-20 15:13:15 247 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389796 in the ib_logfiles!
+2018-06-20 15:13:15 247 [Note] InnoDB: Database was not shutdown normally!
+2018-06-20 15:13:15 247 [Note] InnoDB: Starting crash recovery.
+2018-06-20 15:13:15 247 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-06-20 15:13:16 247 [Note] InnoDB: Restoring possible half-written data pages 
+2018-06-20 15:13:16 247 [Note] InnoDB: from the doublewrite buffer...
+2018-06-20 15:13:16 247 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-20 15:13:16 247 [Note] InnoDB: Waiting for purge to start
+2018-06-20 15:13:16 247 [Note] InnoDB: 5.6.37 started; log sequence number 13389796
+2018-06-20 15:13:16 247 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-06-20 15:13:16 247 [Note] IPv6 is available.
+2018-06-20 15:13:16 247 [Note]   - '::' resolves to '::';
+2018-06-20 15:13:16 247 [Note] Server socket created on IP: '::'.
+2018-06-20 15:13:16 247 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-20 15:13:16 247 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-20 15:13:16 247 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-20 15:13:16 247 [Note] Event Scheduler: Loaded 0 events
+2018-06-20 15:13:16 247 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-06-25 20:22:38 246 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-06-25 20:22:38 246 [Note] Plugin 'FEDERATED' is disabled.
+2018-06-25 20:22:38 246 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-06-25 20:22:38 246 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-25 20:22:38 246 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-06-25 20:22:38 246 [Note] InnoDB: Memory barrier is not used
+2018-06-25 20:22:38 246 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-25 20:22:38 246 [Note] InnoDB: Using Linux native AIO
+2018-06-25 20:22:38 246 [Note] InnoDB: Using CPU crc32 instructions
+2018-06-25 20:22:38 246 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-06-25 20:22:38 246 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-25 20:22:38 246 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-25 20:22:38 246 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389806 in the ib_logfiles!
+2018-06-25 20:22:38 246 [Note] InnoDB: Database was not shutdown normally!
+2018-06-25 20:22:38 246 [Note] InnoDB: Starting crash recovery.
+2018-06-25 20:22:38 246 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-06-25 20:22:38 246 [Note] InnoDB: Restoring possible half-written data pages 
+2018-06-25 20:22:38 246 [Note] InnoDB: from the doublewrite buffer...
+2018-06-25 20:22:38 246 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-25 20:22:38 246 [Note] InnoDB: Waiting for purge to start
+2018-06-25 20:22:38 246 [Note] InnoDB: 5.6.37 started; log sequence number 13389806
+2018-06-25 20:22:39 246 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-06-25 20:22:39 246 [Note] IPv6 is available.
+2018-06-25 20:22:39 246 [Note]   - '::' resolves to '::';
+2018-06-25 20:22:39 246 [Note] Server socket created on IP: '::'.
+2018-06-25 20:22:39 246 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-25 20:22:39 246 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-25 20:22:39 246 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-25 20:22:39 246 [Note] Event Scheduler: Loaded 0 events
+2018-06-25 20:22:39 246 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-06-27 13:45:47 29 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-06-27 13:45:47 29 [Note] Plugin 'FEDERATED' is disabled.
+2018-06-27 13:45:47 29 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-06-27 13:45:47 29 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-27 13:45:47 29 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-06-27 13:45:47 29 [Note] InnoDB: Memory barrier is not used
+2018-06-27 13:45:47 29 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-27 13:45:47 29 [Note] InnoDB: Using Linux native AIO
+2018-06-27 13:45:47 29 [Note] InnoDB: Using CPU crc32 instructions
+2018-06-27 13:45:47 29 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-06-27 13:45:47 29 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-27 13:45:47 29 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-27 13:45:47 29 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389816 in the ib_logfiles!
+2018-06-27 13:45:47 29 [Note] InnoDB: Database was not shutdown normally!
+2018-06-27 13:45:47 29 [Note] InnoDB: Starting crash recovery.
+2018-06-27 13:45:47 29 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-06-27 13:45:48 29 [Note] InnoDB: Restoring possible half-written data pages 
+2018-06-27 13:45:48 29 [Note] InnoDB: from the doublewrite buffer...
+2018-06-27 13:45:48 29 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-27 13:45:48 29 [Note] InnoDB: Waiting for purge to start
+2018-06-27 13:45:48 29 [Note] InnoDB: 5.6.37 started; log sequence number 13389816
+2018-06-27 13:45:48 29 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-06-27 13:45:48 29 [Note] IPv6 is available.
+2018-06-27 13:45:48 29 [Note]   - '::' resolves to '::';
+2018-06-27 13:45:48 29 [Note] Server socket created on IP: '::'.
+2018-06-27 13:45:48 29 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-27 13:45:48 29 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-27 13:45:48 29 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-27 13:45:48 29 [Note] Event Scheduler: Loaded 0 events
+2018-06-27 13:45:48 29 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-06-29 13:16:04 247 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-06-29 13:16:04 247 [Note] Plugin 'FEDERATED' is disabled.
+2018-06-29 13:16:04 247 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-06-29 13:16:04 247 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-06-29 13:16:04 247 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-06-29 13:16:04 247 [Note] InnoDB: Memory barrier is not used
+2018-06-29 13:16:04 247 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-06-29 13:16:04 247 [Note] InnoDB: Using Linux native AIO
+2018-06-29 13:16:04 247 [Note] InnoDB: Using CPU crc32 instructions
+2018-06-29 13:16:04 247 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-06-29 13:16:04 247 [Note] InnoDB: Completed initialization of buffer pool
+2018-06-29 13:16:04 247 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-06-29 13:16:04 247 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389842 in the ib_logfiles!
+2018-06-29 13:16:04 247 [Note] InnoDB: Database was not shutdown normally!
+2018-06-29 13:16:04 247 [Note] InnoDB: Starting crash recovery.
+2018-06-29 13:16:04 247 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-06-29 13:16:05 247 [Note] InnoDB: Restoring possible half-written data pages 
+2018-06-29 13:16:05 247 [Note] InnoDB: from the doublewrite buffer...
+2018-06-29 13:16:09 247 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-06-29 13:16:09 247 [Note] InnoDB: Waiting for purge to start
+2018-06-29 13:16:09 247 [Note] InnoDB: 5.6.37 started; log sequence number 13389842
+2018-06-29 13:16:09 247 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-06-29 13:16:09 247 [Note] IPv6 is available.
+2018-06-29 13:16:09 247 [Note]   - '::' resolves to '::';
+2018-06-29 13:16:09 247 [Note] Server socket created on IP: '::'.
+2018-06-29 13:16:09 247 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-29 13:16:09 247 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-29 13:16:09 247 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-06-29 13:16:09 247 [Note] Event Scheduler: Loaded 0 events
+2018-06-29 13:16:09 247 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-07-02 17:03:30 247 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-07-02 17:03:30 247 [Note] Plugin 'FEDERATED' is disabled.
+2018-07-02 17:03:30 247 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-07-02 17:03:30 247 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-02 17:03:30 247 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-07-02 17:03:30 247 [Note] InnoDB: Memory barrier is not used
+2018-07-02 17:03:30 247 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-07-02 17:03:30 247 [Note] InnoDB: Using Linux native AIO
+2018-07-02 17:03:30 247 [Note] InnoDB: Using CPU crc32 instructions
+2018-07-02 17:03:30 247 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-07-02 17:03:30 247 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-02 17:03:31 247 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-02 17:03:31 247 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389852 in the ib_logfiles!
+2018-07-02 17:03:31 247 [Note] InnoDB: Database was not shutdown normally!
+2018-07-02 17:03:31 247 [Note] InnoDB: Starting crash recovery.
+2018-07-02 17:03:31 247 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-07-02 17:03:31 247 [Note] InnoDB: Restoring possible half-written data pages 
+2018-07-02 17:03:31 247 [Note] InnoDB: from the doublewrite buffer...
+2018-07-02 17:03:32 247 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-02 17:03:32 247 [Note] InnoDB: Waiting for purge to start
+2018-07-02 17:03:32 247 [Note] InnoDB: 5.6.37 started; log sequence number 13389852
+2018-07-02 17:03:32 247 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-07-02 17:03:32 247 [Note] IPv6 is available.
+2018-07-02 17:03:32 247 [Note]   - '::' resolves to '::';
+2018-07-02 17:03:32 247 [Note] Server socket created on IP: '::'.
+2018-07-02 17:03:32 247 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-02 17:03:32 247 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-02 17:03:32 247 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-02 17:03:32 247 [Note] Event Scheduler: Loaded 0 events
+2018-07-02 17:03:32 247 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-07-02 18:35:16 31 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-07-02 18:35:16 31 [Note] Plugin 'FEDERATED' is disabled.
+2018-07-02 18:35:16 31 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-07-02 18:35:16 31 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-02 18:35:16 31 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-07-02 18:35:16 31 [Note] InnoDB: Memory barrier is not used
+2018-07-02 18:35:16 31 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-07-02 18:35:16 31 [Note] InnoDB: Using Linux native AIO
+2018-07-02 18:35:16 31 [Note] InnoDB: Using CPU crc32 instructions
+2018-07-02 18:35:16 31 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-07-02 18:35:16 31 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-02 18:35:16 31 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-02 18:35:16 31 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389862 in the ib_logfiles!
+2018-07-02 18:35:16 31 [Note] InnoDB: Database was not shutdown normally!
+2018-07-02 18:35:16 31 [Note] InnoDB: Starting crash recovery.
+2018-07-02 18:35:16 31 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-07-02 18:35:16 31 [Note] InnoDB: Restoring possible half-written data pages 
+2018-07-02 18:35:16 31 [Note] InnoDB: from the doublewrite buffer...
+2018-07-02 18:35:17 31 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-02 18:35:17 31 [Note] InnoDB: Waiting for purge to start
+2018-07-02 18:35:17 31 [Note] InnoDB: 5.6.37 started; log sequence number 13389862
+2018-07-02 18:35:17 31 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-07-02 18:35:17 31 [Note] IPv6 is available.
+2018-07-02 18:35:17 31 [Note]   - '::' resolves to '::';
+2018-07-02 18:35:17 31 [Note] Server socket created on IP: '::'.
+2018-07-02 18:35:17 31 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-02 18:35:17 31 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-02 18:35:17 31 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-02 18:35:17 31 [Note] Event Scheduler: Loaded 0 events
+2018-07-02 18:35:17 31 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-07-05 13:12:54 246 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-07-05 13:12:54 246 [Note] Plugin 'FEDERATED' is disabled.
+2018-07-05 13:12:54 246 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-07-05 13:12:54 246 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-05 13:12:54 246 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-07-05 13:12:54 246 [Note] InnoDB: Memory barrier is not used
+2018-07-05 13:12:54 246 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-07-05 13:12:54 246 [Note] InnoDB: Using Linux native AIO
+2018-07-05 13:12:54 246 [Note] InnoDB: Using CPU crc32 instructions
+2018-07-05 13:12:54 246 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-07-05 13:12:54 246 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-05 13:12:54 246 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-05 13:12:54 246 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389872 in the ib_logfiles!
+2018-07-05 13:12:54 246 [Note] InnoDB: Database was not shutdown normally!
+2018-07-05 13:12:54 246 [Note] InnoDB: Starting crash recovery.
+2018-07-05 13:12:54 246 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-07-05 13:12:54 246 [Note] InnoDB: Restoring possible half-written data pages 
+2018-07-05 13:12:54 246 [Note] InnoDB: from the doublewrite buffer...
+2018-07-05 13:12:54 246 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-05 13:12:54 246 [Note] InnoDB: Waiting for purge to start
+2018-07-05 13:12:54 246 [Note] InnoDB: 5.6.37 started; log sequence number 13389872
+2018-07-05 13:12:54 246 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-07-05 13:12:54 246 [Note] IPv6 is available.
+2018-07-05 13:12:54 246 [Note]   - '::' resolves to '::';
+2018-07-05 13:12:54 246 [Note] Server socket created on IP: '::'.
+2018-07-05 13:12:54 246 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-05 13:12:54 246 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-05 13:12:54 246 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-05 13:12:54 246 [Note] Event Scheduler: Loaded 0 events
+2018-07-05 13:12:54 246 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-07-10 13:22:43 24 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-07-10 13:22:43 24 [Note] Plugin 'FEDERATED' is disabled.
+2018-07-10 13:22:43 24 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-07-10 13:22:43 24 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-10 13:22:43 24 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-07-10 13:22:43 24 [Note] InnoDB: Memory barrier is not used
+2018-07-10 13:22:43 24 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-07-10 13:22:43 24 [Note] InnoDB: Using Linux native AIO
+2018-07-10 13:22:43 24 [Note] InnoDB: Using CPU crc32 instructions
+2018-07-10 13:22:43 24 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-07-10 13:22:43 24 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-10 13:22:44 24 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-10 13:22:44 24 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389882 in the ib_logfiles!
+2018-07-10 13:22:44 24 [Note] InnoDB: Database was not shutdown normally!
+2018-07-10 13:22:44 24 [Note] InnoDB: Starting crash recovery.
+2018-07-10 13:22:44 24 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-07-10 13:22:44 24 [Note] InnoDB: Restoring possible half-written data pages 
+2018-07-10 13:22:45 24 [Note] InnoDB: from the doublewrite buffer...
+2018-07-10 13:22:46 24 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-10 13:22:46 24 [Note] InnoDB: Waiting for purge to start
+2018-07-10 13:22:46 24 [Note] InnoDB: 5.6.37 started; log sequence number 13389882
+2018-07-10 13:22:46 24 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-07-10 13:22:46 24 [Note] IPv6 is available.
+2018-07-10 13:22:46 24 [Note]   - '::' resolves to '::';
+2018-07-10 13:22:46 24 [Note] Server socket created on IP: '::'.
+2018-07-10 13:22:46 24 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-10 13:22:46 24 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-10 13:22:46 24 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-10 13:22:46 24 [Note] Event Scheduler: Loaded 0 events
+2018-07-10 13:22:46 24 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-07-10 18:06:58 17 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-07-10 18:06:58 17 [Note] Plugin 'FEDERATED' is disabled.
+2018-07-10 18:06:58 17 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-07-10 18:06:58 17 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-10 18:06:58 17 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-07-10 18:06:58 17 [Note] InnoDB: Memory barrier is not used
+2018-07-10 18:06:58 17 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-07-10 18:06:58 17 [Note] InnoDB: Using Linux native AIO
+2018-07-10 18:06:58 17 [Note] InnoDB: Using CPU crc32 instructions
+2018-07-10 18:06:58 17 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-07-10 18:06:58 17 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-10 18:06:58 17 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-10 18:06:58 17 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389892 in the ib_logfiles!
+2018-07-10 18:06:58 17 [Note] InnoDB: Database was not shutdown normally!
+2018-07-10 18:06:58 17 [Note] InnoDB: Starting crash recovery.
+2018-07-10 18:06:58 17 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-07-10 18:06:59 17 [Note] InnoDB: Restoring possible half-written data pages 
+2018-07-10 18:06:59 17 [Note] InnoDB: from the doublewrite buffer...
+2018-07-10 18:07:00 17 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-10 18:07:00 17 [Note] InnoDB: Waiting for purge to start
+2018-07-10 18:07:00 17 [Note] InnoDB: 5.6.37 started; log sequence number 13389892
+2018-07-10 18:07:00 17 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-07-10 18:07:00 17 [Note] IPv6 is available.
+2018-07-10 18:07:00 17 [Note]   - '::' resolves to '::';
+2018-07-10 18:07:00 17 [Note] Server socket created on IP: '::'.
+2018-07-10 18:07:00 17 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-10 18:07:00 17 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-10 18:07:00 17 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-10 18:07:00 17 [Note] Event Scheduler: Loaded 0 events
+2018-07-10 18:07:00 17 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-07-13 20:45:31 247 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-07-13 20:45:31 247 [Note] Plugin 'FEDERATED' is disabled.
+2018-07-13 20:45:31 247 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-07-13 20:45:31 247 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-13 20:45:31 247 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-07-13 20:45:31 247 [Note] InnoDB: Memory barrier is not used
+2018-07-13 20:45:31 247 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-07-13 20:45:31 247 [Note] InnoDB: Using Linux native AIO
+2018-07-13 20:45:31 247 [Note] InnoDB: Using CPU crc32 instructions
+2018-07-13 20:45:31 247 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-07-13 20:45:31 247 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-13 20:45:31 247 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-13 20:45:31 247 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389902 in the ib_logfiles!
+2018-07-13 20:45:31 247 [Note] InnoDB: Database was not shutdown normally!
+2018-07-13 20:45:31 247 [Note] InnoDB: Starting crash recovery.
+2018-07-13 20:45:31 247 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-07-13 20:45:31 247 [Note] InnoDB: Restoring possible half-written data pages 
+2018-07-13 20:45:31 247 [Note] InnoDB: from the doublewrite buffer...
+2018-07-13 20:45:32 247 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-13 20:45:32 247 [Note] InnoDB: Waiting for purge to start
+2018-07-13 20:45:32 247 [Note] InnoDB: 5.6.37 started; log sequence number 13389902
+2018-07-13 20:45:32 247 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-07-13 20:45:32 247 [Note] IPv6 is available.
+2018-07-13 20:45:32 247 [Note]   - '::' resolves to '::';
+2018-07-13 20:45:32 247 [Note] Server socket created on IP: '::'.
+2018-07-13 20:45:32 247 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-13 20:45:32 247 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-13 20:45:32 247 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-13 20:45:32 247 [Note] Event Scheduler: Loaded 0 events
+2018-07-13 20:45:32 247 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-07-16 19:09:26 247 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-07-16 19:09:26 247 [Note] Plugin 'FEDERATED' is disabled.
+2018-07-16 19:09:26 247 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-07-16 19:09:26 247 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-16 19:09:26 247 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-07-16 19:09:26 247 [Note] InnoDB: Memory barrier is not used
+2018-07-16 19:09:26 247 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-07-16 19:09:26 247 [Note] InnoDB: Using Linux native AIO
+2018-07-16 19:09:26 247 [Note] InnoDB: Using CPU crc32 instructions
+2018-07-16 19:09:26 247 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-07-16 19:09:26 247 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-16 19:09:26 247 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-16 19:09:26 247 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389912 in the ib_logfiles!
+2018-07-16 19:09:26 247 [Note] InnoDB: Database was not shutdown normally!
+2018-07-16 19:09:26 247 [Note] InnoDB: Starting crash recovery.
+2018-07-16 19:09:26 247 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-07-16 19:09:26 247 [Note] InnoDB: Restoring possible half-written data pages 
+2018-07-16 19:09:26 247 [Note] InnoDB: from the doublewrite buffer...
+2018-07-16 19:09:27 247 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-16 19:09:27 247 [Note] InnoDB: Waiting for purge to start
+2018-07-16 19:09:27 247 [Note] InnoDB: 5.6.37 started; log sequence number 13389912
+2018-07-16 19:09:27 247 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-07-16 19:09:27 247 [Note] IPv6 is available.
+2018-07-16 19:09:27 247 [Note]   - '::' resolves to '::';
+2018-07-16 19:09:27 247 [Note] Server socket created on IP: '::'.
+2018-07-16 19:09:27 247 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-16 19:09:27 247 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-16 19:09:27 247 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-16 19:09:27 247 [Note] Event Scheduler: Loaded 0 events
+2018-07-16 19:09:27 247 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-07-17 16:50:23 245 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-07-17 16:50:23 245 [Note] Plugin 'FEDERATED' is disabled.
+2018-07-17 16:50:23 245 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-07-17 16:50:23 245 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-17 16:50:23 245 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-07-17 16:50:23 245 [Note] InnoDB: Memory barrier is not used
+2018-07-17 16:50:23 245 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-07-17 16:50:23 245 [Note] InnoDB: Using Linux native AIO
+2018-07-17 16:50:23 245 [Note] InnoDB: Using CPU crc32 instructions
+2018-07-17 16:50:23 245 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-07-17 16:50:23 245 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-17 16:50:24 245 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-17 16:50:24 245 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389922 in the ib_logfiles!
+2018-07-17 16:50:24 245 [Note] InnoDB: Database was not shutdown normally!
+2018-07-17 16:50:24 245 [Note] InnoDB: Starting crash recovery.
+2018-07-17 16:50:24 245 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-07-17 16:50:24 245 [Note] InnoDB: Restoring possible half-written data pages 
+2018-07-17 16:50:24 245 [Note] InnoDB: from the doublewrite buffer...
+2018-07-17 16:50:24 245 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-17 16:50:24 245 [Note] InnoDB: Waiting for purge to start
+2018-07-17 16:50:24 245 [Note] InnoDB: 5.6.37 started; log sequence number 13389922
+2018-07-17 16:50:24 245 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-07-17 16:50:24 245 [Note] IPv6 is available.
+2018-07-17 16:50:24 245 [Note]   - '::' resolves to '::';
+2018-07-17 16:50:24 245 [Note] Server socket created on IP: '::'.
+2018-07-17 16:50:24 245 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-17 16:50:24 245 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-17 16:50:24 245 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-17 16:50:25 245 [Note] Event Scheduler: Loaded 0 events
+2018-07-17 16:50:25 245 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-07-18 18:19:10 246 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-07-18 18:19:10 246 [Note] Plugin 'FEDERATED' is disabled.
+2018-07-18 18:19:10 246 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-07-18 18:19:10 246 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-18 18:19:10 246 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-07-18 18:19:10 246 [Note] InnoDB: Memory barrier is not used
+2018-07-18 18:19:10 246 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-07-18 18:19:10 246 [Note] InnoDB: Using Linux native AIO
+2018-07-18 18:19:11 246 [Note] InnoDB: Using CPU crc32 instructions
+2018-07-18 18:19:11 246 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-07-18 18:19:11 246 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-18 18:19:11 246 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-18 18:19:11 246 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389932 in the ib_logfiles!
+2018-07-18 18:19:11 246 [Note] InnoDB: Database was not shutdown normally!
+2018-07-18 18:19:11 246 [Note] InnoDB: Starting crash recovery.
+2018-07-18 18:19:11 246 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-07-18 18:19:11 246 [Note] InnoDB: Restoring possible half-written data pages 
+2018-07-18 18:19:11 246 [Note] InnoDB: from the doublewrite buffer...
+2018-07-18 18:19:12 246 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-18 18:19:12 246 [Note] InnoDB: Waiting for purge to start
+2018-07-18 18:19:12 246 [Note] InnoDB: 5.6.37 started; log sequence number 13389932
+2018-07-18 18:19:12 246 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-07-18 18:19:12 246 [Note] IPv6 is available.
+2018-07-18 18:19:12 246 [Note]   - '::' resolves to '::';
+2018-07-18 18:19:12 246 [Note] Server socket created on IP: '::'.
+2018-07-18 18:19:12 246 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-18 18:19:12 246 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-18 18:19:12 246 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-18 18:19:12 246 [Note] Event Scheduler: Loaded 0 events
+2018-07-18 18:19:12 246 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-07-20 15:03:51 247 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-07-20 15:03:51 247 [Note] Plugin 'FEDERATED' is disabled.
+2018-07-20 15:03:51 247 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-07-20 15:03:51 247 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-20 15:03:51 247 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-07-20 15:03:51 247 [Note] InnoDB: Memory barrier is not used
+2018-07-20 15:03:51 247 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-07-20 15:03:51 247 [Note] InnoDB: Using Linux native AIO
+2018-07-20 15:03:51 247 [Note] InnoDB: Using CPU crc32 instructions
+2018-07-20 15:03:51 247 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-07-20 15:03:51 247 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-20 15:03:52 247 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-20 15:03:52 247 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389942 in the ib_logfiles!
+2018-07-20 15:03:52 247 [Note] InnoDB: Database was not shutdown normally!
+2018-07-20 15:03:52 247 [Note] InnoDB: Starting crash recovery.
+2018-07-20 15:03:52 247 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-07-20 15:03:52 247 [Note] InnoDB: Restoring possible half-written data pages 
+2018-07-20 15:03:52 247 [Note] InnoDB: from the doublewrite buffer...
+2018-07-20 15:03:53 247 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-20 15:03:53 247 [Note] InnoDB: Waiting for purge to start
+2018-07-20 15:03:53 247 [Note] InnoDB: 5.6.37 started; log sequence number 13389942
+2018-07-20 15:03:53 247 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-07-20 15:03:53 247 [Note] IPv6 is available.
+2018-07-20 15:03:53 247 [Note]   - '::' resolves to '::';
+2018-07-20 15:03:53 247 [Note] Server socket created on IP: '::'.
+2018-07-20 15:03:53 247 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-20 15:03:53 247 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-20 15:03:53 247 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-20 15:03:53 247 [Note] Event Scheduler: Loaded 0 events
+2018-07-20 15:03:53 247 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-07-20 20:22:47 19 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-07-20 20:22:47 19 [Note] Plugin 'FEDERATED' is disabled.
+2018-07-20 20:22:47 19 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-07-20 20:22:47 19 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-20 20:22:47 19 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-07-20 20:22:47 19 [Note] InnoDB: Memory barrier is not used
+2018-07-20 20:22:47 19 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-07-20 20:22:47 19 [Note] InnoDB: Using Linux native AIO
+2018-07-20 20:22:47 19 [Note] InnoDB: Using CPU crc32 instructions
+2018-07-20 20:22:48 19 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-07-20 20:22:48 19 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-20 20:22:48 19 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-20 20:22:48 19 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389952 in the ib_logfiles!
+2018-07-20 20:22:48 19 [Note] InnoDB: Database was not shutdown normally!
+2018-07-20 20:22:48 19 [Note] InnoDB: Starting crash recovery.
+2018-07-20 20:22:48 19 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-07-20 20:22:48 19 [Note] InnoDB: Restoring possible half-written data pages 
+2018-07-20 20:22:49 19 [Note] InnoDB: from the doublewrite buffer...
+2018-07-20 20:22:50 19 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-20 20:22:53 19 [Note] InnoDB: Waiting for purge to start
+2018-07-20 20:22:54 19 [Note] InnoDB: 5.6.37 started; log sequence number 13389952
+2018-07-20 20:22:54 19 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-07-20 20:22:54 19 [Note] IPv6 is available.
+2018-07-20 20:22:54 19 [Note]   - '::' resolves to '::';
+2018-07-20 20:22:54 19 [Note] Server socket created on IP: '::'.
+2018-07-20 20:22:54 19 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-20 20:22:54 19 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-20 20:22:54 19 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-20 20:22:55 19 [Note] Event Scheduler: Loaded 0 events
+2018-07-20 20:22:55 19 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-07-23 15:46:56 247 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-07-23 15:46:56 247 [Note] Plugin 'FEDERATED' is disabled.
+2018-07-23 15:46:56 247 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-07-23 15:46:56 247 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-23 15:46:56 247 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-07-23 15:46:56 247 [Note] InnoDB: Memory barrier is not used
+2018-07-23 15:46:56 247 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-07-23 15:46:56 247 [Note] InnoDB: Using Linux native AIO
+2018-07-23 15:46:56 247 [Note] InnoDB: Using CPU crc32 instructions
+2018-07-23 15:46:56 247 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-07-23 15:46:57 247 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-23 15:46:57 247 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-23 15:46:57 247 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389962 in the ib_logfiles!
+2018-07-23 15:46:57 247 [Note] InnoDB: Database was not shutdown normally!
+2018-07-23 15:46:57 247 [Note] InnoDB: Starting crash recovery.
+2018-07-23 15:46:57 247 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-07-23 15:46:57 247 [Note] InnoDB: Restoring possible half-written data pages 
+2018-07-23 15:46:57 247 [Note] InnoDB: from the doublewrite buffer...
+2018-07-23 15:46:59 247 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-23 15:46:59 247 [Note] InnoDB: Waiting for purge to start
+2018-07-23 15:46:59 247 [Note] InnoDB: 5.6.37 started; log sequence number 13389962
+2018-07-23 15:46:59 247 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-07-23 15:46:59 247 [Note] IPv6 is available.
+2018-07-23 15:46:59 247 [Note]   - '::' resolves to '::';
+2018-07-23 15:46:59 247 [Note] Server socket created on IP: '::'.
+2018-07-23 15:46:59 247 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-23 15:46:59 247 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-23 15:46:59 247 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-23 15:46:59 247 [Note] Event Scheduler: Loaded 0 events
+2018-07-23 15:46:59 247 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-07-30 23:55:59 19 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-07-30 23:55:59 19 [Note] Plugin 'FEDERATED' is disabled.
+2018-07-30 23:55:59 19 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-07-30 23:55:59 19 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-30 23:55:59 19 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-07-30 23:55:59 19 [Note] InnoDB: Memory barrier is not used
+2018-07-30 23:55:59 19 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-07-30 23:55:59 19 [Note] InnoDB: Using Linux native AIO
+2018-07-30 23:55:59 19 [Note] InnoDB: Using CPU crc32 instructions
+2018-07-30 23:55:59 19 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-07-30 23:55:59 19 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-30 23:55:59 19 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-30 23:55:59 19 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389972 in the ib_logfiles!
+2018-07-30 23:55:59 19 [Note] InnoDB: Database was not shutdown normally!
+2018-07-30 23:55:59 19 [Note] InnoDB: Starting crash recovery.
+2018-07-30 23:55:59 19 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-07-30 23:55:59 19 [Note] InnoDB: Restoring possible half-written data pages 
+2018-07-30 23:55:59 19 [Note] InnoDB: from the doublewrite buffer...
+2018-07-30 23:56:00 19 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-30 23:56:01 19 [Note] InnoDB: Waiting for purge to start
+2018-07-30 23:56:01 19 [Note] InnoDB: 5.6.37 started; log sequence number 13389972
+2018-07-30 23:56:01 19 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-07-30 23:56:01 19 [Note] IPv6 is available.
+2018-07-30 23:56:01 19 [Note]   - '::' resolves to '::';
+2018-07-30 23:56:01 19 [Note] Server socket created on IP: '::'.
+2018-07-30 23:56:01 19 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-30 23:56:01 19 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-30 23:56:01 19 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-30 23:56:01 19 [Note] Event Scheduler: Loaded 0 events
+2018-07-30 23:56:01 19 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-07-31 15:37:24 19 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-07-31 15:37:24 19 [Note] Plugin 'FEDERATED' is disabled.
+2018-07-31 15:37:24 19 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-07-31 15:37:24 19 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-07-31 15:37:24 19 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-07-31 15:37:24 19 [Note] InnoDB: Memory barrier is not used
+2018-07-31 15:37:24 19 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-07-31 15:37:24 19 [Note] InnoDB: Using Linux native AIO
+2018-07-31 15:37:24 19 [Note] InnoDB: Using CPU crc32 instructions
+2018-07-31 15:37:24 19 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-07-31 15:37:24 19 [Note] InnoDB: Completed initialization of buffer pool
+2018-07-31 15:37:24 19 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-07-31 15:37:24 19 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389982 in the ib_logfiles!
+2018-07-31 15:37:24 19 [Note] InnoDB: Database was not shutdown normally!
+2018-07-31 15:37:24 19 [Note] InnoDB: Starting crash recovery.
+2018-07-31 15:37:24 19 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-07-31 15:37:24 19 [Note] InnoDB: Restoring possible half-written data pages 
+2018-07-31 15:37:24 19 [Note] InnoDB: from the doublewrite buffer...
+2018-07-31 15:37:25 19 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-07-31 15:37:25 19 [Note] InnoDB: Waiting for purge to start
+2018-07-31 15:37:25 19 [Note] InnoDB: 5.6.37 started; log sequence number 13389982
+2018-07-31 15:37:25 19 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-07-31 15:37:25 19 [Note] IPv6 is available.
+2018-07-31 15:37:25 19 [Note]   - '::' resolves to '::';
+2018-07-31 15:37:25 19 [Note] Server socket created on IP: '::'.
+2018-07-31 15:37:25 19 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-31 15:37:25 19 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-31 15:37:26 19 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-07-31 15:37:26 19 [Note] Event Scheduler: Loaded 0 events
+2018-07-31 15:37:26 19 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-08-03 13:23:52 20 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-08-03 13:23:52 20 [Note] Plugin 'FEDERATED' is disabled.
+2018-08-03 13:23:52 20 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-08-03 13:23:52 20 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-03 13:23:52 20 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-03 13:23:52 20 [Note] InnoDB: Memory barrier is not used
+2018-08-03 13:23:52 20 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-03 13:23:52 20 [Note] InnoDB: Using Linux native AIO
+2018-08-03 13:23:52 20 [Note] InnoDB: Using CPU crc32 instructions
+2018-08-03 13:23:52 20 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-08-03 13:23:52 20 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-03 13:23:53 20 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-03 13:23:56 20 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13389992 in the ib_logfiles!
+2018-08-03 13:23:56 20 [Note] InnoDB: Database was not shutdown normally!
+2018-08-03 13:23:56 20 [Note] InnoDB: Starting crash recovery.
+2018-08-03 13:23:56 20 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-08-03 13:23:56 20 [Note] InnoDB: Restoring possible half-written data pages 
+2018-08-03 13:23:56 20 [Note] InnoDB: from the doublewrite buffer...
+2018-08-03 13:23:57 20 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-03 13:23:57 20 [Note] InnoDB: Waiting for purge to start
+2018-08-03 13:23:57 20 [Note] InnoDB: 5.6.37 started; log sequence number 13389992
+2018-08-03 13:23:57 20 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-08-03 13:23:57 20 [Note] IPv6 is available.
+2018-08-03 13:23:57 20 [Note]   - '::' resolves to '::';
+2018-08-03 13:23:57 20 [Note] Server socket created on IP: '::'.
+2018-08-03 13:23:57 20 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-08-03 13:23:57 20 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-08-03 13:23:57 20 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-08-03 13:23:57 20 [Note] Event Scheduler: Loaded 0 events
+2018-08-03 13:23:57 20 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-08-07 23:52:39 28 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-08-07 23:52:39 28 [Note] Plugin 'FEDERATED' is disabled.
+2018-08-07 23:52:39 28 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-08-07 23:52:39 28 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-07 23:52:39 28 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-07 23:52:39 28 [Note] InnoDB: Memory barrier is not used
+2018-08-07 23:52:39 28 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-07 23:52:39 28 [Note] InnoDB: Using Linux native AIO
+2018-08-07 23:52:39 28 [Note] InnoDB: Using CPU crc32 instructions
+2018-08-07 23:52:39 28 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-08-07 23:52:39 28 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-07 23:52:40 28 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-07 23:52:41 28 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13390002 in the ib_logfiles!
+2018-08-07 23:52:41 28 [Note] InnoDB: Database was not shutdown normally!
+2018-08-07 23:52:41 28 [Note] InnoDB: Starting crash recovery.
+2018-08-07 23:52:41 28 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-08-07 23:52:41 28 [Note] InnoDB: Restoring possible half-written data pages 
+2018-08-07 23:52:41 28 [Note] InnoDB: from the doublewrite buffer...
+2018-08-07 23:52:44 28 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-07 23:52:44 28 [Note] InnoDB: Waiting for purge to start
+2018-08-07 23:52:44 28 [Note] InnoDB: 5.6.37 started; log sequence number 13390002
+2018-08-07 23:52:44 28 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-08-07 23:52:44 28 [Note] IPv6 is available.
+2018-08-07 23:52:44 28 [Note]   - '::' resolves to '::';
+2018-08-07 23:52:44 28 [Note] Server socket created on IP: '::'.
+2018-08-07 23:52:44 28 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-08-07 23:52:44 28 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-08-07 23:52:44 28 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-08-07 23:52:44 28 [Note] Event Scheduler: Loaded 0 events
+2018-08-07 23:52:44 28 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-08-18 22:59:27 21 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-08-18 22:59:27 21 [Note] Plugin 'FEDERATED' is disabled.
+2018-08-18 22:59:27 21 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-08-18 22:59:27 21 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-18 22:59:27 21 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-08-18 22:59:27 21 [Note] InnoDB: Memory barrier is not used
+2018-08-18 22:59:27 21 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-18 22:59:27 21 [Note] InnoDB: Using Linux native AIO
+2018-08-18 22:59:27 21 [Note] InnoDB: Using CPU crc32 instructions
+2018-08-18 22:59:27 21 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-08-18 22:59:27 21 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-18 22:59:27 21 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-18 22:59:27 21 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13390012 in the ib_logfiles!
+2018-08-18 22:59:27 21 [Note] InnoDB: Database was not shutdown normally!
+2018-08-18 22:59:27 21 [Note] InnoDB: Starting crash recovery.
+2018-08-18 22:59:27 21 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-08-18 22:59:27 21 [Note] InnoDB: Restoring possible half-written data pages 
+2018-08-18 22:59:27 21 [Note] InnoDB: from the doublewrite buffer...
+2018-08-18 22:59:29 21 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-18 22:59:30 21 [Note] InnoDB: Waiting for purge to start
+2018-08-18 22:59:30 21 [Note] InnoDB: 5.6.37 started; log sequence number 13390012
+2018-08-18 22:59:30 21 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-08-18 22:59:30 21 [Note] IPv6 is available.
+2018-08-18 22:59:30 21 [Note]   - '::' resolves to '::';
+2018-08-18 22:59:30 21 [Note] Server socket created on IP: '::'.
+2018-08-18 22:59:30 21 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-08-18 22:59:30 21 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-08-18 22:59:30 21 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-08-18 22:59:30 21 [Note] Event Scheduler: Loaded 0 events
+2018-08-18 22:59:30 21 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-09-03 19:49:30 25 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-09-03 19:49:30 25 [Note] Plugin 'FEDERATED' is disabled.
+2018-09-03 19:49:30 25 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-09-03 19:49:30 25 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-09-03 19:49:30 25 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-09-03 19:49:30 25 [Note] InnoDB: Memory barrier is not used
+2018-09-03 19:49:30 25 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-09-03 19:49:30 25 [Note] InnoDB: Using Linux native AIO
+2018-09-03 19:49:30 25 [Note] InnoDB: Using CPU crc32 instructions
+2018-09-03 19:49:30 25 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-09-03 19:49:30 25 [Note] InnoDB: Completed initialization of buffer pool
+2018-09-03 19:49:31 25 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-09-03 19:49:31 25 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13390022 in the ib_logfiles!
+2018-09-03 19:49:31 25 [Note] InnoDB: Database was not shutdown normally!
+2018-09-03 19:49:31 25 [Note] InnoDB: Starting crash recovery.
+2018-09-03 19:49:31 25 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-09-03 19:49:31 25 [Note] InnoDB: Restoring possible half-written data pages 
+2018-09-03 19:49:32 25 [Note] InnoDB: from the doublewrite buffer...
+2018-09-03 19:49:33 25 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-09-03 19:49:33 25 [Note] InnoDB: Waiting for purge to start
+2018-09-03 19:49:33 25 [Note] InnoDB: 5.6.37 started; log sequence number 13390022
+2018-09-03 19:49:33 25 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-09-03 19:49:33 25 [Note] IPv6 is available.
+2018-09-03 19:49:33 25 [Note]   - '::' resolves to '::';
+2018-09-03 19:49:34 25 [Note] Server socket created on IP: '::'.
+2018-09-03 19:49:34 25 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-03 19:49:34 25 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-03 19:49:34 25 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-03 19:49:34 25 [Note] Event Scheduler: Loaded 0 events
+2018-09-03 19:49:34 25 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-09-05 20:50:57 246 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-09-05 20:50:57 246 [Note] Plugin 'FEDERATED' is disabled.
+2018-09-05 20:50:57 246 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-09-05 20:50:57 246 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-09-05 20:50:57 246 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-09-05 20:50:57 246 [Note] InnoDB: Memory barrier is not used
+2018-09-05 20:50:57 246 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-09-05 20:50:57 246 [Note] InnoDB: Using Linux native AIO
+2018-09-05 20:50:57 246 [Note] InnoDB: Using CPU crc32 instructions
+2018-09-05 20:50:57 246 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-09-05 20:50:57 246 [Note] InnoDB: Completed initialization of buffer pool
+2018-09-05 20:50:57 246 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-09-05 20:50:57 246 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13390032 in the ib_logfiles!
+2018-09-05 20:50:57 246 [Note] InnoDB: Database was not shutdown normally!
+2018-09-05 20:50:57 246 [Note] InnoDB: Starting crash recovery.
+2018-09-05 20:50:57 246 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-09-05 20:50:57 246 [Note] InnoDB: Restoring possible half-written data pages 
+2018-09-05 20:50:57 246 [Note] InnoDB: from the doublewrite buffer...
+2018-09-05 20:50:58 246 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-09-05 20:50:58 246 [Note] InnoDB: Waiting for purge to start
+2018-09-05 20:50:58 246 [Note] InnoDB: 5.6.37 started; log sequence number 13390032
+2018-09-05 20:50:58 246 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-09-05 20:50:58 246 [Note] IPv6 is available.
+2018-09-05 20:50:58 246 [Note]   - '::' resolves to '::';
+2018-09-05 20:50:58 246 [Note] Server socket created on IP: '::'.
+2018-09-05 20:50:58 246 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-05 20:50:58 246 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-05 20:50:58 246 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-05 20:50:58 246 [Note] Event Scheduler: Loaded 0 events
+2018-09-05 20:50:58 246 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-09-07 12:53:35 31 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-09-07 12:53:35 31 [Note] Plugin 'FEDERATED' is disabled.
+2018-09-07 12:53:35 31 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-09-07 12:53:35 31 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-09-07 12:53:35 31 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-09-07 12:53:35 31 [Note] InnoDB: Memory barrier is not used
+2018-09-07 12:53:35 31 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-09-07 12:53:35 31 [Note] InnoDB: Using Linux native AIO
+2018-09-07 12:53:35 31 [Note] InnoDB: Using CPU crc32 instructions
+2018-09-07 12:53:35 31 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-09-07 12:53:35 31 [Note] InnoDB: Completed initialization of buffer pool
+2018-09-07 12:53:35 31 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-09-07 12:53:35 31 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13390042 in the ib_logfiles!
+2018-09-07 12:53:35 31 [Note] InnoDB: Database was not shutdown normally!
+2018-09-07 12:53:35 31 [Note] InnoDB: Starting crash recovery.
+2018-09-07 12:53:35 31 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-09-07 12:53:35 31 [Note] InnoDB: Restoring possible half-written data pages 
+2018-09-07 12:53:35 31 [Note] InnoDB: from the doublewrite buffer...
+2018-09-07 12:53:36 31 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-09-07 12:53:36 31 [Note] InnoDB: Waiting for purge to start
+2018-09-07 12:53:36 31 [Note] InnoDB: 5.6.37 started; log sequence number 13390042
+2018-09-07 12:53:36 31 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-09-07 12:53:36 31 [Note] IPv6 is available.
+2018-09-07 12:53:36 31 [Note]   - '::' resolves to '::';
+2018-09-07 12:53:36 31 [Note] Server socket created on IP: '::'.
+2018-09-07 12:53:36 31 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-07 12:53:36 31 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-07 12:53:36 31 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-07 12:53:36 31 [Note] Event Scheduler: Loaded 0 events
+2018-09-07 12:53:36 31 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-09-07 19:40:29 247 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-09-07 19:40:29 247 [Note] Plugin 'FEDERATED' is disabled.
+2018-09-07 19:40:29 247 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-09-07 19:40:29 247 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-09-07 19:40:29 247 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-09-07 19:40:29 247 [Note] InnoDB: Memory barrier is not used
+2018-09-07 19:40:29 247 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-09-07 19:40:29 247 [Note] InnoDB: Using Linux native AIO
+2018-09-07 19:40:29 247 [Note] InnoDB: Using CPU crc32 instructions
+2018-09-07 19:40:29 247 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-09-07 19:40:29 247 [Note] InnoDB: Completed initialization of buffer pool
+2018-09-07 19:40:29 247 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-09-07 19:40:29 247 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13390052 in the ib_logfiles!
+2018-09-07 19:40:29 247 [Note] InnoDB: Database was not shutdown normally!
+2018-09-07 19:40:29 247 [Note] InnoDB: Starting crash recovery.
+2018-09-07 19:40:29 247 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-09-07 19:40:29 247 [Note] InnoDB: Restoring possible half-written data pages 
+2018-09-07 19:40:29 247 [Note] InnoDB: from the doublewrite buffer...
+2018-09-07 19:40:30 247 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-09-07 19:40:30 247 [Note] InnoDB: Waiting for purge to start
+2018-09-07 19:40:30 247 [Note] InnoDB: 5.6.37 started; log sequence number 13390052
+2018-09-07 19:40:30 247 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-09-07 19:40:30 247 [Note] IPv6 is available.
+2018-09-07 19:40:30 247 [Note]   - '::' resolves to '::';
+2018-09-07 19:40:30 247 [Note] Server socket created on IP: '::'.
+2018-09-07 19:40:30 247 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-07 19:40:30 247 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-07 19:40:30 247 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-07 19:40:30 247 [Note] Event Scheduler: Loaded 0 events
+2018-09-07 19:40:30 247 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-09-11 14:31:57 30 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-09-11 14:31:57 30 [Note] Plugin 'FEDERATED' is disabled.
+2018-09-11 14:31:57 30 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-09-11 14:31:57 30 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-09-11 14:31:57 30 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-09-11 14:31:57 30 [Note] InnoDB: Memory barrier is not used
+2018-09-11 14:31:57 30 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-09-11 14:31:57 30 [Note] InnoDB: Using Linux native AIO
+2018-09-11 14:31:57 30 [Note] InnoDB: Using CPU crc32 instructions
+2018-09-11 14:31:57 30 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-09-11 14:31:57 30 [Note] InnoDB: Completed initialization of buffer pool
+2018-09-11 14:31:58 30 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-09-11 14:31:58 30 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13390062 in the ib_logfiles!
+2018-09-11 14:31:58 30 [Note] InnoDB: Database was not shutdown normally!
+2018-09-11 14:31:58 30 [Note] InnoDB: Starting crash recovery.
+2018-09-11 14:31:58 30 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-09-11 14:31:58 30 [Note] InnoDB: Restoring possible half-written data pages 
+2018-09-11 14:31:58 30 [Note] InnoDB: from the doublewrite buffer...
+2018-09-11 14:31:58 30 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-09-11 14:31:58 30 [Note] InnoDB: Waiting for purge to start
+2018-09-11 14:31:58 30 [Note] InnoDB: 5.6.37 started; log sequence number 13390062
+2018-09-11 14:31:58 30 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-09-11 14:31:58 30 [Note] IPv6 is available.
+2018-09-11 14:31:58 30 [Note]   - '::' resolves to '::';
+2018-09-11 14:31:58 30 [Note] Server socket created on IP: '::'.
+2018-09-11 14:31:58 30 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-11 14:31:58 30 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-11 14:31:58 30 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-11 14:31:58 30 [Note] Event Scheduler: Loaded 0 events
+2018-09-11 14:31:58 30 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2018-09-12 20:50:37 26 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-09-12 20:50:37 26 [Note] Plugin 'FEDERATED' is disabled.
+2018-09-12 20:50:37 26 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-09-12 20:50:37 26 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-09-12 20:50:37 26 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-09-12 20:50:37 26 [Note] InnoDB: Memory barrier is not used
+2018-09-12 20:50:37 26 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-09-12 20:50:37 26 [Note] InnoDB: Using Linux native AIO
+2018-09-12 20:50:37 26 [Note] InnoDB: Using CPU crc32 instructions
+2018-09-12 20:50:37 26 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-09-12 20:50:37 26 [Note] InnoDB: Completed initialization of buffer pool
+2018-09-12 20:50:37 26 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-09-12 20:50:37 26 [Note] InnoDB: The log sequence numbers 1625987 and 1625987 in ibdata files do not match the log sequence number 13390072 in the ib_logfiles!
+2018-09-12 20:50:37 26 [Note] InnoDB: Database was not shutdown normally!
+2018-09-12 20:50:37 26 [Note] InnoDB: Starting crash recovery.
+2018-09-12 20:50:37 26 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2018-09-12 20:50:37 26 [Note] InnoDB: Restoring possible half-written data pages 
+2018-09-12 20:50:37 26 [Note] InnoDB: from the doublewrite buffer...
+2018-09-12 20:50:39 26 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-09-12 20:50:39 26 [Note] InnoDB: Waiting for purge to start
+2018-09-12 20:50:39 26 [Note] InnoDB: 5.6.37 started; log sequence number 13390072
+2018-09-12 20:50:39 26 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-09-12 20:50:39 26 [Note] IPv6 is available.
+2018-09-12 20:50:39 26 [Note]   - '::' resolves to '::';
+2018-09-12 20:50:39 26 [Note] Server socket created on IP: '::'.
+2018-09-12 20:50:39 26 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-12 20:50:39 26 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-12 20:50:39 26 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-12 20:50:39 26 [Note] Event Scheduler: Loaded 0 events
+2018-09-12 20:50:39 26 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)

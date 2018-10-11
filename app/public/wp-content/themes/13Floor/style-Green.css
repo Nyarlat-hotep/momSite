@@ -1,0 +1,10 @@
+/* @override http://dev.picobarn.com/mrc/wp-content/themes/13Floor/style-Green.css */
+
+#bg1 { background: url(images/green/main-bg.jpg) repeat-y top center; }
+#bg2 { background: none no-repeat center bottom; }
+#wrap { background: url(images/green/top-bg.jpg) repeat-x top center;
+	margin-bottom: 49px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}

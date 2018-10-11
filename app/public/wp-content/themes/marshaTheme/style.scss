@@ -1,0 +1,571 @@
+/*
+Theme Name: marshaTheme
+Theme URI: https://colorlib.com/wp/themes/activello/
+Template: activello
+Author: Colorlib
+Author URI: http://colorlib.com
+Description: Activello is a clean and minimal WordPress blog theme with premium look and feel well suited for food, fashion, travel, lifestyle, sports and any other awesome blogs. This theme features WooCommerce integration that allows you to create fully functional eCommerce website side by side with your blog. This theme has several customization options that are available WordPress Theme Customizer. Theme is also multilingual ready and translated in several languages. This awesome blog theme is also SEO friendly helping you to achieve the highest positions on Google. Activello is the only WordPress blog theme you will ever need.
+Version: 1.3.1
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: activello
+Domain Path: /languages/
+Tags: grid-layout, footer-widgets, blog, education, entertainment, food-and-drink, news, photography, portfolio, e-commerce
+
+
+This theme, like WordPress, is licensed under the GPL.
+
+sparkling is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+
+*/
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+/*  GLOBAL  */
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+}
+
+
+.container #logo, #line, .nav-search {
+	display: none;
+}
+
+.container {
+	width: 100%;
+	margin: 0;
+	max-width: none;
+	padding: 0;
+
+	.entry-content {
+		margin-top: 0;
+	}
+
+	.page-header {
+		display: none;
+	}
+
+	.purpleLine {
+		max-width: 50%;
+	    margin: 2em auto;
+	    padding-bottom: 0;
+	    border-bottom: 1px solid rgb(161, 97, 191);
+	}
+}
+
+
+/*  NAVIGATION  */
+
+.navbar.navbar-default {
+	font-family: 'Roboto', sans-serif;
+	background-color: #222;
+	border: none;
+	border-radius: 0;
+}
+
+.navbar-default .navbar-nav > .active > a {
+	background-color: #222;
+	color: rgb(161, 97, 191);
+	text-decoration: underline;
+}
+
+.navbar-header {
+	.momNameNav {
+		color: #fff;
+		margin-top: 10px;
+		padding: .25em 0 0 1em;
+	}
+}
+
+.navbar-default .navbar-nav> li> a {
+	font-size: 16px;
+}
+
+.navbar-collapse.collapse {
+	float: right;
+}
+
+.navbar-default .navbar-nav > .active > a:hover {
+	background-color: transparent;
+}
+
+.siteHome {
+	&:hover {
+		text-decoration: none;
+	}
+}
+
+/*  HOME PAGE STYLES  */
+
+h1 {
+	text-align: center;
+}
+
+.entry-title {
+	display: none;
+}
+
+.entry-content .slider_1 .slider-title, .share_buttons_1 {
+	display: none;
+}
+
+.buyBtn {
+	padding: 8px 20px;
+	background-color: #fff;
+	color: rgb(161, 97, 191);
+	border: 2px solid rgb(161, 97, 191);
+	text-decoration: none;
+	border-radius: 20px;
+	position: relative;
+	top: 1em;
+
+	&:hover {
+		background-color: rgb(161, 97, 191);
+		color: #fff;
+		text-decoration: none;
+	}
+}
+
+.entry-content {
+	.slider_1, .huge-it-wrap, #slider_1 {
+		max-width: none !important;
+		max-height: none !important;
+		width: 100% !important;
+		height: auto !important;
+		margin-bottom: 1.5em;
+	}
+
+	.slider_1 {
+
+		#slider_1 {
+			background-color: #222;
+			padding: 2.5em 0 4.5em 0;
+
+			.slider-description {
+				width: 30%;
+			    min-width: 30%;
+			    font-size: 1.5em;
+			    color: #fff;
+				text-align: left;
+			    background-color: transparent;
+			    position: absolute;
+			    top: 6em;
+			    left: 60vw;
+			    border-radius: 10px;
+			    margin-left: 3em;
+
+			    &:before {
+			    	position: absolute;
+			    	top: 120px;
+			    	left: 190px;
+			    	content: '';
+			    	width: 10px;
+			    	height: 10px;
+			    	background-color: #fff;
+			    	transform: rotateZ(45deg);
+			    }
+			}
+		}
+
+		.huge-it-prev {
+			left: 1.2em;
+		}
+
+		.huge-it-next {
+			right: 1.2em;
+		}
+
+		.huge-it-dot-wrap {
+			top: 67vh;
+
+			a {
+				background-color: transparent;
+				border: 1px solid #fff;
+				opacity: .3;
+			}
+			.active {
+				background-color: #fff;
+				border: none;
+			}
+		}
+
+		.huge-it-slide-image {
+			width: 276px !important;
+			height: 430px !important;
+		}
+
+		.group {
+			text-align: center;
+			position: relative;
+			left: -15vw;
+		}
+	}
+}
+
+// .entry-content .slider_1:hover:after {
+// 	position: absolute;
+// 	top: 0;
+// 	left: 0;
+// 	background-color: rgba(161, 97, 191, .5);
+// 	content: 'Buy Now';
+// 	width: 100%;
+// 	height: 100%;
+// }
+
+.content-column {
+	text-align: center;
+}
+
+.last_column {
+	text-align: left;
+}
+
+.main-content-inner {
+	width: 100%;
+}
+
+.homeColRow {
+	margin: 5em 0;
+}
+
+.homeColRow .one_half {
+	text-align: center;
+}
+
+.homeColRow .last_column {
+	text-align: left;
+}
+
+.homeColRow p {
+	font-size: 1.25em;
+}
+
+.latestWork {
+	padding-bottom: 1em;
+
+		.latestBookImg {
+			padding: 1.8em 0 0 15%;
+
+		img {
+			width: 70%;
+			min-width: 40%;
+			max-width: 440px;
+			margin-bottom: .45em;
+		}
+
+		a {
+			color: #222;
+			text-decoration: underline;
+			font-size: 1.25em;
+
+			&:hover {
+				color: rgb(161, 97, 191);
+			}
+		}
+	}
+
+	.reviewCol {
+		padding-right: 20%;
+
+		.blurb {
+			font-size: 1em;
+		}
+
+		.blurb:first-child {
+			padding-top: 1.8em;
+		}
+
+		.review {
+			font-size: 14px;
+			margin: 1.5em 0;
+		}
+
+		.review:first-child {
+			margin-bottom: 0;
+		}
+
+		.reviewer {
+			font-size: 20px;
+			font-weight: bold;
+			padding-left: 1em;
+			margin-bottom: 1.5em;
+			text-align: right;
+		}
+	}
+}
+
+
+.bookColumnsContainer {
+	padding: 0 17% 2em 17%;
+	margin-bottom: 5em;
+
+	h1 {
+		margin-bottom: 1em;
+	}
+
+	.one_half {
+		text-align: left;
+
+		p {
+			padding-right: 7em;
+		}
+	}
+
+	.last_column {
+		position: relative;
+		text-align: left;
+		// background-color: rgb(242, 242, 242);
+	}
+
+	img {
+		max-width: 100%;
+		margin-bottom: 1em;
+		height: 292px;
+	}
+}
+
+
+#footer-area {
+	background-color: #222;
+
+	.social-icons {
+		margin: 0;
+	}
+
+	.social_icon {
+		color: rgb(119, 119, 119);
+		transition: .25s;
+
+		&:hover {
+			color: rgb(51, 51, 51);
+		}
+	}
+
+	a {
+		font-size: 24px;
+	}
+}
+
+.site-info .copyright {
+	display: none;
+}
+
+/*  BIO PAGE  */
+.bio, .coachPage {
+	padding: 3em 15% 0 15%;
+}
+
+.comment-form {
+	padding: 0 15%;
+	margin-bottom: 2em;
+
+	#submit {
+		background-color: #222;
+		color: #fff;
+	}	
+}
+
+
+/*  COACH PAGE  */
+
+.coachPage {
+	padding: 3em 20% 0 15%;
+
+	.one_half {
+		text-align: left;
+	}
+
+	img {
+		position: relative;
+		max-width: 86%;
+		min-width: 530px;
+    	left: 8em;
+	}
+
+	h1 {
+		text-align: left;
+	}
+
+	.one_third {
+		text-align: left;
+		font-size: 1.2em;
+	}
+}
+.coachPage a {
+	&:hover {
+		color: rgb(161, 97, 191);
+	}
+}
+
+.bio {
+	img {
+		max-width: 20%;
+	}
+}
+
+
+/*  BLOG PAGE  */
+
+.blog .flexslider {
+	display: none;
+}
+
+.blog {
+	.site-content {
+		padding: 3em 15% 0 15%;
+	}
+
+	.entry-content {
+		text-align: center;
+
+		p {
+			width: 75%;
+			min-width: 75%;
+			margin: 1em auto 0 auto;
+		}
+	}
+
+	.alignleft {
+		float: none;
+	}
+}
+
+/*  VIDEOS PAGE  */
+
+.videos, .comment-list {
+	padding: 3em 15% 0 15%;
+}
+
+/*  CONTACT PAGE  */
+
+.contact {
+	padding: 3em 15% 0 15%;
+
+	.wpcf7  {
+		label {
+			text-align: left;
+		}
+		
+		p {
+			text-align: left;
+		}
+	}
+
+	.wpcf7 .wpcf7-submit {
+		background-color: #222;
+		color: #fff;
+
+		&:hover {
+			background-color: rgb(161, 97, 191);
+		}
+	}
+}
+
+
+@media only screen and (max-width: 768px) {
+
+	.navbar-header {
+		// width: 100%;
+
+		.momNameNav {
+			// width: 100%;
+			text-align: left;
+			margin-right: 4em;
+			margin-top: 15px;
+			float: left;
+			font-size: 1.75em;
+		}
+	}
+
+	.navbar-collapse.collapsing {
+		background-color: #222;
+		// margin-top: 4em;
+
+		.nav.navbar-nav {
+			text-align: center;
+
+			> li > a {
+				margin: 0;
+			}
+		}
+	}
+
+	.navbar-default .navbar-toggle {
+		float: right;
+	}
+
+	.navbar-collapse.collapse.in {
+		background-color: #222;
+		// margin-top: 4em;
+
+		.nav.navbar-nav {
+			text-align: center;
+
+			> li > a {
+				margin: 0;
+			}
+		}
+	}
+
+	.entry-content .slider_1 {
+
+		.group {
+			position: static;	
+		}
+
+		.slider-description {
+			display: none;
+		}
+
+		.huge-it-dot-wrap {
+			display: none;
+		}
+	}
+
+	.latestWork  {
+		.latestBookImg {
+			padding-left: 0;
+		}
+
+		.reviewCol {
+			padding: 0 2em;
+
+			p.review:nth-child(7) {
+				display: none;
+			}
+		}
+	}
+
+	.bookColumnsContainer {
+		padding: 0 2em;
+
+		img {
+			max-width: 100%;
+		}
+
+		.one_half {
+			margin-bottom: 5em;
+
+			p {
+				padding-right: 3em;
+			}
+		}
+
+		.last_column {
+			margin-bottom: 0;
+		}
+	}
+
+	.coachPage {
+		padding: 3em 2em 0 2em;
+
+		img {
+			position: static;
+			max-width: 100%;
+			min-width: 0;
+		}
+	}
+}

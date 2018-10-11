@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 13floor v 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-05 23:13+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ann <anochka1985@gmail.com>\n"
+"Language-Team: Ann <anochka1985@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:9
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Пожалуйста, не загружайте эту страницу напрямую. Спасибо!"
+
+#: ../comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Эта страница защищена паролем. Введите пароль для просмотра комментариев."
+
+#: ../comments.php:22
+msgid "No comments"
+msgstr "Нет комментариев"
+
+#: ../comments.php:22
+msgid "One comment"
+msgstr "Один комментарий"
+
+#: ../comments.php:22
+#: ../page-blog.php:57
+msgid "comments"
+msgstr "Коммент."
+
+#: ../comments.php:41
+msgid "Trackbacks/Pingbacks"
+msgstr "Трекбеки/Пинги"
+
+#: ../comments.php:54
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: ../comments.php:62
+msgid "Leave a Reply"
+msgstr "Оставить комментарий"
+
+#: ../comments.php:62
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить комментарий к %s"
+
+#: ../comments.php:68
+msgid "You must be"
+msgstr "Вы должны быть"
+
+#: ../comments.php:68
+msgid "logged in"
+msgstr "зарегистрированы"
+
+#: ../comments.php:68
+msgid "to post a comment."
+msgstr "чтобы комментировать."
+
+#: ../comments.php:72
+msgid "Logged in as"
+msgstr "Вы вошли как"
+
+#: ../comments.php:72
+msgid "Log out &raquo;"
+msgstr "Выйти &raquo;"
+
+#: ../comments.php:76
+#: ../page-contact.php:96
+msgid "Name"
+msgstr "Имя"
+
+#: ../comments.php:77
+#: ../comments.php:83
+msgid "(required)"
+msgstr "(обязательное поле)"
+
+#: ../comments.php:82
+msgid "Mail (will not be published)"
+msgstr "Email (не будет виден посетителям)"
+
+#: ../comments.php:88
+msgid "Website"
+msgstr "Сайт"
+
+#: ../comments.php:96
+msgid "Submit Comment"
+msgstr "Оставить комментарий"
+
+#: ../footer.php:15
+msgid "Powered by "
+msgstr "Разработано на CMS"
+
+#: ../footer.php:15
+msgid "Designed by "
+msgstr "Дизайн"
+
+#: ../functions.php:20
+msgid "Primary Menu"
+msgstr ""
+
+#: ../header.php:53
+msgid "Home"
+msgstr "Главная"
+
+#: ../header.php:66
+msgid "search this site..."
+msgstr "поиск по сайту..."
+
+#: ../header.php:67
+msgid "Search"
+msgstr "Искать"
+
+#: ../index.php:41
+#: ../index.php:46
+#: ../index.php:55
+#: ../search.php:58
+#: ../search.php:63
+#: ../search.php:72
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Перейти >> %s"
+
+#: ../index.php:55
+#: ../search.php:72
+msgid "Read More"
+msgstr "Далее"
+
+#: ../page-blog.php:45
+#: ../page-contact.php:86
+#: ../page-full.php:31
+#: ../page-gallery.php:41
+#: ../page-login.php:38
+#: ../page-search.php:38
+#: ../page-search.php:48
+#: ../page-sitemap.php:38
+#: ../page-sitemap.php:42
+#: ../page.php:25
+msgid "Pages"
+msgstr "Страницы"
+
+#: ../page-blog.php:57
+msgid "Posted"
+msgstr "Опубликовано"
+
+#: ../page-blog.php:57
+msgid "by"
+msgstr " "
+
+#: ../page-blog.php:57
+msgid "on"
+msgstr " "
+
+#: ../page-blog.php:57
+msgid "in"
+msgstr "в"
+
+#: ../page-blog.php:57
+msgid "0 comments"
+msgstr "Нет комментариев"
+
+#: ../page-blog.php:57
+msgid "1 comment"
+msgstr "1 коммент."
+
+#: ../page-blog.php:77
+#, fuzzy
+msgid "read more"
+msgstr "Далее"
+
+#: ../page-blog.php:96
+#: ../page-contact.php:133
+#: ../page-full.php:32
+#: ../page-gallery.php:80
+#: ../page-login.php:55
+#: ../page-search.php:84
+#: ../page-sitemap.php:75
+#: ../page.php:26
+msgid "Edit this page"
+msgstr "Редактировать страницу"
+
+#: ../page-contact.php:21
+msgid "Make sure you entered the captcha. "
+msgstr ""
+
+#: ../page-contact.php:24
+msgid "Numbers regenerated."
+msgstr ""
+
+#: ../page-contact.php:25
+msgid "You entered the wrong number in captcha. "
+msgstr ""
+
+#: ../page-contact.php:34
+msgid "Make sure you fill all fields. "
+msgstr ""
+
+#: ../page-contact.php:39
+msgid "Invalid Email. "
+msgstr ""
+
+#: ../page-contact.php:59
+msgid "Thanks for contacting us"
+msgstr ""
+
+#: ../page-contact.php:100
+msgid "Email Address"
+msgstr ""
+
+#: ../page-contact.php:104
+msgid "Subject"
+msgstr ""
+
+#: ../page-contact.php:111
+msgid "Captcha: "
+msgstr ""
+
+#: ../page-contact.php:120
+msgid "Message"
+msgstr ""
+
+#: ../page-contact.php:125
+msgid "Reset"
+msgstr ""
+
+#: ../page-contact.php:126
+#: ../page-search.php:76
+#, fuzzy
+msgid "Submit"
+msgstr "Оставить комментарий"
+
+#: ../page-gallery.php:62
+msgid "Zoom in"
+msgstr ""
+
+#: ../page-gallery.php:63
+#, fuzzy
+msgid "Read more"
+msgstr "Далее"
+
+#: ../page-login.php:44
+msgid "Username"
+msgstr ""
+
+#: ../page-login.php:45
+msgid "Password"
+msgstr ""
+
+#: ../page-login.php:49
+msgid "Not a member?"
+msgstr ""
+
+#: ../page-login.php:49
+msgid "Register today!"
+msgstr ""
+
+#: ../page-search.php:42
+#, fuzzy
+msgid "search this website"
+msgstr "поиск по сайту..."
+
+#: ../page-search.php:47
+#, fuzzy
+msgid "Posts"
+msgstr "Опубликовано"
+
+#: ../page-search.php:51
+msgid "Select a month"
+msgstr ""
+
+#: ../page-sitemap.php:47
+msgid "Categories"
+msgstr ""
+
+#: ../page-sitemap.php:52
+#, fuzzy
+msgid "Tags"
+msgstr "Страницы"
+
+#: ../page-sitemap.php:68
+msgid "Authors"
+msgstr ""
+
+#: ../includes/featured.php:69
+msgid "Sign Up Today"
+msgstr "Зарегистрироваться"
+
+#: ../includes/featured.php:85
+msgid "Prev"
+msgstr "Пред."
+
+#: ../includes/featured.php:86
+msgid "Next"
+msgstr "След."
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Предыдущие Записи"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Следующие Записи &raquo;"
+
+#: ../includes/no-results.php:2
+msgid "No Results Found"
+msgstr "Ничего не найдено"
+
+#: ../includes/no-results.php:3
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "Запрашиваемая страница не найдена. Попробуйте уточнить параметры поиска или используйте меню для нахождения страницы."
+
+#: ../includes/functions/comments.php:15
+msgid "(Edit)"
+msgstr "(Ред.)"
+
+#: ../includes/functions/comments.php:22
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: ../includes/functions/comments.php:27
+msgid "Reply"
+msgstr "Ответить"
+

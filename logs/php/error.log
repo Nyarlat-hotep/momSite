@@ -1,0 +1,347 @@
+[15-Mar-2018 20:41:18 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[15-Mar-2018 20:41:19 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[15-Mar-2018 20:41:20 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[15-Mar-2018 20:41:21 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[15-Mar-2018 20:41:22 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[15-Mar-2018 20:41:22 UTC] PHP Notice:  Undefined index: SERVER_SOFTWARE in phar:///usr/local/bin/wp/php/WP_CLI/Runner.php(1020) : eval()'d code on line 75
+[15-Mar-2018 21:08:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:09:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:09:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:10:12 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:10:12 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:10:12 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:16 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:16 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:25 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:25 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:27 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:27 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:27 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:27 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:28 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:28 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:28 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:28 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:29 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:29 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:29 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:29 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:29 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:29 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:30 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:30 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:30 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:30 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:30 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:30 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:31 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:31 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:31 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:31 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:32 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:32 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:32 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:32 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:32 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:32 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:33 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:33 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:33 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:33 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:34 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:34 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:34 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:34 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:11:57 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:57 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:11:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:12:01 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:12:01 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:12:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:12:02 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:12:02 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:12:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:12:03 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:12:03 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:12:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:12:09 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:12:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:12:09 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:12:09 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:12:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:12:14 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:12:14 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:12:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:13:25 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:13:25 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:13:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:13:37 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:13:37 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:13:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:14:30 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:14:30 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:14:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:15:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:15:27 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:15:27 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:15:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:15:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:15:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:15:48 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)?post_type=wpcf7_contact_form&p=4|^/$|/feed)#
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_MetaKeywords::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_UserCode::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Slugs::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_FofsLog::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_LinkNofollow::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Non-static method SU_Module::get_default_status() should not be called statically in /app/public/wp-content/plugins/seo-ultimate/plugin/class.seo-ultimate.php on line 498
+[15-Mar-2018 21:15:48 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; VipersVideoQuicktags has a deprecated constructor in /app/public/wp-content/plugins/vipers-video-quicktags/vipers-video-quicktags.php on line 31
+[15-Mar-2018 21:15:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:17:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:18:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:18:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:18:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:18:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:18:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:18:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:19:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:21:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:21:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:21:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:22:25 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:22:25 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[15-Mar-2018 21:22:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:22:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:29:56 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:29:56 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[15-Mar-2018 21:29:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:30:05 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:30:05 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[15-Mar-2018 21:30:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:30:24 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:30:25 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[15-Mar-2018 21:30:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:30:27 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:30:27 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[15-Mar-2018 21:30:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:30:42 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:30:42 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[15-Mar-2018 21:30:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:30:56 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:30:56 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[15-Mar-2018 21:30:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:31:07 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:31:07 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[15-Mar-2018 21:31:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:31:36 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:31:36 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[15-Mar-2018 21:31:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:32:13 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:32:13 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[15-Mar-2018 21:32:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[15-Mar-2018 21:32:31 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[15-Mar-2018 21:32:31 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[15-Mar-2018 21:32:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 17:57:57 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 17:57:57 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 17:57:57 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 17:57:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:01:00 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:01:00 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:01:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:01:32 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:01:32 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:01:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:01:39 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:01:39 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:01:39 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:01:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:03:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:03:28 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:03:28 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:03:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:08:01 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:08:01 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:08:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:08:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:08:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:08:03 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:08:03 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:08:04 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:08:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:15:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:15:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:15:27 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:15:27 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:15:27 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:15:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:15:30 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:15:30 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:15:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:16:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:16:27 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:16:27 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:16:27 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:16:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:16:30 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:16:30 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:16:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:19:14 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:19:14 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:19:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:20:12 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:20:12 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:20:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:20:59 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:20:59 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:20:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:21:04 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:21:04 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:21:04 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:21:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:21:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:21:58 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:21:58 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:21:58 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:21:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:22:00 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:22:00 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:22:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:22:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:22:40 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:22:40 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:22:40 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:22:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:22:42 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:22:42 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:22:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:22:54 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:22:54 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:22:54 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:22:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:24:01 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:24:01 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:24:01 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:24:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:24:06 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:24:06 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:24:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:24:16 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:24:16 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:24:16 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:24:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:25:14 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:25:14 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:25:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:25:27 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:25:27 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:25:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:25:53 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:25:53 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:25:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:26:57 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:26:57 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:26:57 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:26:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:27:00 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:27:00 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:27:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:28:23 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:28:23 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:28:23 UTC] purge_varnish_cache() failed for: (localhost) #^(local\.mr\.com)$# #((.*)|/wp-json/wp/v2/pages)#
+[17-Mar-2018 18:28:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[17-Mar-2018 18:28:29 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[17-Mar-2018 18:28:29 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[17-Mar-2018 18:28:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[19-Mar-2018 12:46:49 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; VipersVideoQuicktags has a deprecated constructor in /app/public/wp-content/plugins/vipers-video-quicktags/vipers-video-quicktags.php on line 31
+[19-Mar-2018 12:46:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[19-Mar-2018 12:46:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[19-Mar-2018 12:47:01 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[19-Mar-2018 12:47:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[19-Mar-2018 12:48:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[20-Mar-2018 13:56:56 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[20-Mar-2018 13:56:56 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[20-Mar-2018 13:56:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[20-Mar-2018 14:02:22 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[20-Mar-2018 14:02:23 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[20-Mar-2018 14:02:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[20-Mar-2018 14:05:50 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[20-Mar-2018 14:05:50 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[20-Mar-2018 14:05:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[20-Mar-2018 14:06:16 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[20-Mar-2018 14:06:16 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[20-Mar-2018 14:06:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[20-Mar-2018 14:07:08 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[20-Mar-2018 14:07:08 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[20-Mar-2018 14:07:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[20-Mar-2018 14:08:20 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[20-Mar-2018 14:08:20 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[20-Mar-2018 14:08:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[20-Mar-2018 14:08:50 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[20-Mar-2018 14:08:50 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[20-Mar-2018 14:08:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[20-Mar-2018 14:09:00 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[20-Mar-2018 14:09:00 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[20-Mar-2018 14:09:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[20-Mar-2018 14:10:44 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[20-Mar-2018 14:10:44 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[20-Mar-2018 14:10:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[20-Mar-2018 14:10:59 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[20-Mar-2018 14:10:59 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[20-Mar-2018 14:10:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
+[20-Mar-2018 14:11:04 UTC] PHP Warning:  Parameter 2 to WPE\Site_Preview::the_posts() expected to be a reference, value given in /app/public/wp-includes/class-wp-hook.php on line 286
+[20-Mar-2018 14:11:04 UTC] PHP Notice:  Undefined index: 00 in /app/public/wp-includes/class-wp-locale.php on line 312
+[20-Mar-2018 14:11:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1020
